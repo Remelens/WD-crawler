@@ -6,7 +6,7 @@
 ### **配置要求**
 
 ```
-在你的网站URL/pages上建立一个页面，添加 [[module Pages preview="true"]] 代码
+在你的网站URL/system:list-all-pages上建立一个页面，添加 [[module Pages preview="true"]] 代码
 ```
 
 ### **爬虫程序安装**
