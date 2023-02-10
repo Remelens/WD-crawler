@@ -27,11 +27,3 @@ Linux使用者自行編譯。 生成的a.html可以刪除
 有新功能的想法，但是不知道在那裡反饋？ 來[這裡](http://ld-private-website.wikidot.com/forum/t-15402049/pyc-1-1-0-1-9)反饋，或者來 [這裡](https://github.com/TimeLine-Bookstore/Py-crawler/issues) 反饋。
 
 你可以給我們提供技術説明？ 來 [這裡](http://ld-private-website.wikidot.com/forum/c-7602920/) 反饋，或者來 [這裡](https://github.com/TimeLine-Bookstore/Py-crawler/fork) 拉取分支進行修改吧。
-
-----------
-```
-Copyright (c) 2022 TimeLine-Bookstore
-All Rights Reserved.
-版權所有 （c） 2022 時間軸書店
-保留所有權利。
-```
