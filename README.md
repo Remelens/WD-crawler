@@ -29,9 +29,9 @@ https://github.com/HelloOSMe/Py-crawler/issues
 ----------
 
 ```
-Copyright (c) 2022 HelloOSMe
+Copyright (c) 2022 PYC Dev Team
 All Rights Reserved.
 
-版权所有 (c) 2022 HelloOSMe
+版权所有 (c) 2022 PYC Dev Team
 保留所有权利。
 ```
