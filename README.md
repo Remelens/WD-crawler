@@ -24,7 +24,11 @@
 
 ### **反馈地址**
 
-https://github.com/HelloOSMe/Py-crawler/issues
+遇到了错误或BUG？ 来 [这里](http://ld-private-website.wikidot.com/forum/c-7602918/pyc) 反馈，或者来 [这里](https://github.com/HelloOSMe/Py-crawler/issues) 反馈。
+
+有新功能的想法，但是不知道在那里反馈？ 来[这里](http://ld-private-website.wikidot.com/forum/t-15402049/pyc-1-1-0-1-9) 反馈，或者来 [这里](https://github.com/HelloOSMe/Py-crawler/issues)反馈。
+
+你可以给我们提供技术帮助？ 来 [这里](http://ld-private-website.wikidot.com/forum/c-7602920/) 反馈，或者来 [这里](https://github.com/HelloOSMe/Py-crawler/fork) 拉取分支进行修改吧。
 
 ----------
 
