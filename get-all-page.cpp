@@ -1,6 +1,7 @@
 #include<bits/stdc++.h>
 #include<unistd.h>
 using namespace std;
+ofstream ferr ("err.log",ios::app);
 string char_to_str(char ch[]){
 	string s;
 	for(int i=0;i<strlen(ch);i++){
@@ -47,10 +48,9 @@ int main(int argc,char** argv){
 		system("del /f /q a.html");
 	char url[1024];
 	if(argc==1){
-		cout<<"Failed! Please run main.exe!"<<endl;
-		cout<<"Press ENTER to continue.";
-		string s;
-		getline(cin,s);
+		ferr<<"----------------------------"<<endl;
+		ferr<<"ERR:get-all-pages.exe"<<endl;
+		ferr<<"DO_NOT_RUN_MAIN_EXE"<<endl;
 		exit(0);
 	}else{
 		sprintf(url,"%s",argv[1]);
@@ -61,16 +61,16 @@ int main(int argc,char** argv){
 	int a=system(cmd);
 	ifstream fin ("a.html");
 	if(a==1){
-		cout<<"Failed!No file named crawler.exe!"<<endl;
-		cout<<"Press ENTER to continue.";
-		string s;
-		getline(cin,s);
+		ferr<<"----------------------------"<<endl;
+		ferr<<"ERR:get-all-pages.exe"<<endl;
+		ferr<<"PAGE:"<<url<<endl;
+		ferr<<"DO_NOT_FIND_CRAWLER_EXE"<<endl;
 		exit(0);
 	}else if(!fin.is_open()){
-		cout<<"Failed!No file named a.html!"<<endl;
-		cout<<"Press ENTER to continue.";
-		string s;
-		getline(cin,s);
+		ferr<<"----------------------------"<<endl;
+		ferr<<"ERR:get-all-pages.exe"<<endl;
+		ferr<<"PAGE:"<<url<<endl;
+		ferr<<"DO_NOT_FIND_FILE_A_HTML"<<endl;
 		exit(0);
 	}
 	string s;

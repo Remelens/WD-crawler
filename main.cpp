@@ -10,6 +10,7 @@
 #define GT_MIN 0x000004
 #define GT_SEC 0x000005
 using namespace std;
+ofstream ferr ("err.log",ios::app);
 void EnableDebugPriv() 
 {      
 	
@@ -59,6 +60,14 @@ string char_to_str(char ch[]){
 		s.push_back(ch[i]);
 	}
 	return s;
+}
+int char_to_int(const char* s){
+	int i=0;
+	for(int j=0;j<strlen(s);j++){
+		i*=10;
+		i+=s[j]-'0';
+	}
+	return i;
 }
 bool have_file(const char* name){
 	ifstream fins (name);
@@ -125,6 +134,10 @@ bool have_str(string s,string s2){
 	return 0;
 }
 int main(int argc,char** argv){
+	ferr<<"=========================="<<endl;
+	char timedata[1000]={'\0'};
+	sprintf(timedata,"%d/%02d/%02d %02d:%02d:%02d",GetTimes(GT_YEA),GetTimes(GT_MON),GetTimes(GT_DAY),GetTimes(GT_HOU),GetTimes(GT_MIN),GetTimes(GT_SEC));
+	ferr<<"NOW:"<<timedata<<endl;
 	char* path=getcwd(NULL,0);
 	string lan;
 	ifstream flan("lan");
@@ -178,16 +191,16 @@ int main(int argc,char** argv){
 	int a=system(cmd);
 	ifstream fin ("a.html");
 	if(a==1){
-		cout<<"Failed!No file named crawler.exe!"<<endl;
-		cout<<"Press ENTER to continue.";
-		string s;
-		getline(cin,s);
+		ferr<<"----------------------------"<<endl;
+		ferr<<"ERR:main.exe"<<endl;
+		ferr<<"PAGE:"<<url<<endl;
+		ferr<<"DO_NOT_FIND_CRAWLER_EXE"<<endl;
 		exit(0);
 	}else if(!fin.is_open()){
-		cout<<"Failed!No file named a.html!"<<endl;
-		cout<<"Press ENTER to continue.";
-		string s;
-		getline(cin,s);
+		ferr<<"----------------------------"<<endl;
+		ferr<<"ERR:main.exe"<<endl;
+		ferr<<"PAGE:"<<url<<endl;
+		ferr<<"DO_NOT_FIND_FILE_A_HTML"<<endl;
 		exit(0);
 	}
 	string s;
@@ -207,9 +220,13 @@ int main(int argc,char** argv){
 	fin.close();
 	char url2[2048];
 	int n=1;
-	cout<<"Your pages of /system:list-all-pages> ";
 	int nu;
-	cin>>nu;
+	if(argc<3){
+		cout<<"Your pages of /system:list-all-pages> ";
+		cin>>nu;
+	}else{
+		nu=char_to_int(argv[2]);
+	}
 	long long l=clock(),l2=0;
 	while(n<=nu){
 		sprintf(url2,"get-all-page %ssystem:list-all-pages/p/%d",url,n);
@@ -257,9 +274,10 @@ int main(int argc,char** argv){
 		th5.join();
 		//cout<<url2<<endl;
 	}
+	fin.close();
 	l2=clock();
-	cout<<(l2-l)/1000<<endl;
-	system("pause");
+	ferr<<"-----END-----"<<endl;
+	ferr<<"Use Time:"<<(l2-l)/1000<<endl;
 	//*/
 	return 0;
 }

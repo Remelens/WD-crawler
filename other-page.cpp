@@ -1,6 +1,7 @@
 #include<bits/stdc++.h>
 #include<unistd.h>
 using namespace std;
+ofstream ferr ("err.log",ios::app);
 void jihuo(){
 
 }
@@ -43,10 +44,9 @@ int main(int argc,char** argv){
 	ofstream fout;
 	char url[1024];
 	if(argc==1){
-		cout<<"Failed! Please run main.exe!"<<endl;
-		cout<<"Press ENTER to continue.";
-		string s;
-		getline(cin,s);
+		ferr<<"----------------------------"<<endl;
+		ferr<<"ERR:other-page.exe"<<endl;
+		ferr<<"DO_NOT_RUN_MAIN_EXE"<<endl;
 		exit(0);
 	}else if(argc==2){
 		sprintf(argv[2],"a.html");
@@ -64,16 +64,16 @@ int main(int argc,char** argv){
 	int a=system(cmd);
 	ifstream fin (argv[2]);
 	if(a==1){
-		cout<<"Failed!No file named crawler.exe!"<<endl;
-		cout<<"Press ENTER to continue.";
-		string s;
-		getline(cin,s);
+		ferr<<"----------------------------"<<endl;
+		ferr<<"ERR:other-page.exe"<<endl;
+		ferr<<"PAGE:"<<url<<endl;
+		ferr<<"DO_NOT_FIND_CRAWLER_EXE"<<endl;
 		exit(0);
 	}else if(!fin.is_open()){
-		cout<<"other-page.exe: Failed!No file named "<<argv[2]<<endl;
-		cout<<"Press ENTER to continue.";
-		string s;
-		getline(cin,s);
+		ferr<<"----------------------------"<<endl;
+		ferr<<"ERR:other-page.exe"<<endl;
+		ferr<<"PAGE:"<<url<<endl;
+		ferr<<"DO_NOT_FIND_FILE_A_HTML"<<endl;
 		exit(0);
 	}
 	string s;
