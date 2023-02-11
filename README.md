@@ -10,16 +10,14 @@
 ```
 
 ### **爬虫程序安装**
-请点击侧栏`Releases`中显示的最新版，选择Installer.exe结尾的安装文件。它将会把文件安装到同一目录。你只需要在键盘上点击对应按钮即可触发相应命令。
-
-我们以后不再支持Linux。
+请点击侧栏`Releases`中显示的最新版，选择"Source Code"下载。
 
 ### **爬虫运行**
-* 运行时启用main.exe()。
-* 在命令行输入区输入你的网址，点击确认。
+* 运行时启用PyCrawlerGUI.exe。
+* 在URL处输入你的网址，点击确认。
 * 去查看你的网站URL/system:list-all-pages页面下面显示的page X of X的后面一个数（在本例子中就是后面一个x)
-* 命令行输入区输入这个数【如果你填多了（设这个数为X，X≠0），它会输出1～X的HTML文件（名称为pages1~pagesX.html）但是(X-1)和X是同一个】，然后换行。
-* 静静等待程序执行完毕吧。（若发现了一个页面有多次爬取，那是正常的，程序会爬上面存在的所有链接）
+* pages处输入这个数【如果你填多了（设这个数为X，X≠0），它会输出1～X的HTML文件（名称为pages1~pagesX.html）但是(X-1)和X是同一个】，然后换行。
+* 静静等待程序执行完毕吧，会有弹窗提示的。
 * 完成了？记得把html文件夹移动一下，避免混淆。
 
 ### **反馈地址**
@@ -33,7 +31,7 @@
 ----------
 
 ```
-Copyright (c) 2022 Py-crawler DevTeam
+Copyright (c) 2022 Py-crawler Dev Team
 All Rights Reserved.
 
 版权所有 (c) 2022 Py-crawler开发团队
