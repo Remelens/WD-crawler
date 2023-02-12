@@ -1,21 +1,46 @@
 VERSION 5.00
 Begin VB.Form Form1 
    Caption         =   "Py-Crawler-GUI"
-   ClientHeight    =   2190
+   ClientHeight    =   2580
    ClientLeft      =   60
    ClientTop       =   405
    ClientWidth     =   5760
    LinkTopic       =   "Form1"
    MaxButton       =   0   'False
-   ScaleHeight     =   2190
+   ScaleHeight     =   2580
    ScaleWidth      =   5760
    StartUpPosition =   3  '´°¿ÚÈ±Ê¡
+   Begin VB.Frame Frame1 
+      Caption         =   "State"
+      Height          =   615
+      Left            =   480
+      TabIndex        =   10
+      Top             =   1320
+      Width           =   4815
+      Begin VB.Label Label4 
+         Caption         =   "Ready"
+         BeginProperty Font 
+            Name            =   "Courier New"
+            Size            =   9
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         Height          =   255
+         Left            =   120
+         TabIndex        =   11
+         Top             =   240
+         Width           =   4575
+      End
+   End
    Begin VB.CommandButton Command4 
       Caption         =   "Exit"
       Height          =   375
       Left            =   3840
       TabIndex        =   9
-      Top             =   1560
+      Top             =   2040
       Width           =   1335
    End
    Begin VB.CommandButton Command3 
@@ -23,7 +48,7 @@ Begin VB.Form Form1
       Height          =   375
       Left            =   2160
       TabIndex        =   8
-      Top             =   1560
+      Top             =   2040
       Width           =   1335
    End
    Begin VB.CommandButton Command2 
@@ -31,7 +56,7 @@ Begin VB.Form Form1
       Height          =   375
       Left            =   480
       TabIndex        =   7
-      Top             =   1560
+      Top             =   2040
       Width           =   1335
    End
    Begin VB.CommandButton Command1 
@@ -104,13 +129,20 @@ Private Sub Command1_Click()
     Else
         Form1.Text1.Locked = True
         Form1.Text1.BackColor = &H8000000F
+        Form1.Text2.Locked = True
+        Form1.Text2.BackColor = &H8000000F
         Form1.Command1.Enabled = False
+        Form1.Label4.Caption = "Crawlering..."
         Set ws = CreateObject("Wscript.Shell")
         ws.run "main.exe " + Form1.Text1.Text + " " + Form1.Text2.Text, 0, True
         Form1.Text1.Locked = False
         Form1.Text1.BackColor = &H80000005
+        Form1.Text2.Locked = False
+        Form1.Text2.BackColor = &H80000005
         Form1.Command1.Enabled = True
+        Form1.Label4.Caption = "Finished"
         MsgBox "Done.", vbOKOnly, "Info"
+        Form1.Label4.Caption = "Ready"
     End If
 End Sub
 
