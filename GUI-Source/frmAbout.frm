@@ -7,6 +7,7 @@ Begin VB.Form frmAbout
    ClientTop       =   1935
    ClientWidth     =   4485
    ClipControls    =   0   'False
+   Icon            =   "frmAbout.frx":0000
    LinkTopic       =   "Form2"
    MaxButton       =   0   'False
    MinButton       =   0   'False
