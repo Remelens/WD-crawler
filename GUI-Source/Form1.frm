@@ -126,7 +126,9 @@ Attribute VB_PredeclaredId = True
 Attribute VB_Exposed = False
 Private Sub Command1_Click()
     If Form1.Text2.Text = "" Or Form1.Text2.Text = "0" Then
-        MsgBox ("Failed:pages need a number!")
+        Form2.Show
+        Form1.Enabled = False
+        frmAbout.Enabled = False
     Else
         Form1.Text1.Locked = True
         Form1.Text1.BackColor = &H8000000F
