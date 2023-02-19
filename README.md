@@ -50,5 +50,5 @@ All Rights Reserved.
 
 The icon "Py-Crawler-worm" is made by hatoyama_kumiko and is applicable to CC-BY-SA-4.0 protocol.
 
-The application made by RedPanda Dev-Cpp and Visual Basic 6.0 .
+The application made by RedPanda Dev-Cpp , Visual Basic 6.0 and Windows Notepad.
 ```
