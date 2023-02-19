@@ -2,7 +2,7 @@ VERSION 5.00
 Begin VB.Form frmAbout 
    BorderStyle     =   3  'Fixed Dialog
    Caption         =   "About PYC"
-   ClientHeight    =   3285
+   ClientHeight    =   4425
    ClientLeft      =   2340
    ClientTop       =   1935
    ClientWidth     =   4485
@@ -11,7 +11,7 @@ Begin VB.Form frmAbout
    LinkTopic       =   "Form2"
    MaxButton       =   0   'False
    MinButton       =   0   'False
-   ScaleHeight     =   2267.365
+   ScaleHeight     =   3054.213
    ScaleMode       =   0  'User
    ScaleWidth      =   4211.647
    ShowInTaskbar   =   0   'False
@@ -22,52 +22,68 @@ Begin VB.Form frmAbout
       Height          =   345
       Left            =   1560
       TabIndex        =   0
-      Top             =   2760
-      Width           =   1500
+      Top             =   3960
+      Width           =   1260
+   End
+   Begin VB.Image Image1 
+      Height          =   960
+      Left            =   1800
+      Picture         =   "frmAbout.frx":10CA
+      Top             =   120
+      Width           =   960
    End
    Begin VB.Line Line1 
       BorderColor     =   &H00808080&
       BorderStyle     =   6  'Inside Solid
       Index           =   1
-      X1              =   84.515
-      X2              =   3944.017
-      Y1              =   1356.278
-      Y2              =   1356.278
+      X1              =   112.686
+      X2              =   3972.189
+      Y1              =   2236.305
+      Y2              =   2236.305
    End
    Begin VB.Label lblDescription 
-      Caption         =   "This file is a kind of crawler and it is under the GNU/General Public License Version 3.0 ."
+      Caption         =   $"frmAbout.frx":26FD
       ForeColor       =   &H00000000&
-      Height          =   690
+      Height          =   1050
       Left            =   210
       TabIndex        =   1
-      Top             =   1125
+      Top             =   1965
       Width           =   4005
    End
    Begin VB.Label lblTitle 
       Caption         =   "Py-Crawler-GUI"
+      BeginProperty Font 
+         Name            =   "Consolas"
+         Size            =   12
+         Charset         =   0
+         Weight          =   400
+         Underline       =   0   'False
+         Italic          =   0   'False
+         Strikethrough   =   0   'False
+      EndProperty
       ForeColor       =   &H00000000&
-      Height          =   480
-      Left            =   210
+      Height          =   345
+      Left            =   1290
       TabIndex        =   3
-      Top             =   240
-      Width           =   4005
-   End
-   Begin VB.Line Line1 
-      BorderColor     =   &H00FFFFFF&
-      BorderWidth     =   2
-      Index           =   0
-      X1              =   98.6
-      X2              =   3944.017
-      Y1              =   1366.631
-      Y2              =   1366.631
+      Top             =   1200
+      Width           =   1965
    End
    Begin VB.Label lblVersion 
-      Caption         =   "v 3.0.0.beta"
+      Caption         =   "v 3.1.0"
+      BeginProperty Font 
+         Name            =   "Courier"
+         Size            =   9.75
+         Charset         =   0
+         Weight          =   400
+         Underline       =   0   'False
+         Italic          =   0   'False
+         Strikethrough   =   0   'False
+      EndProperty
       Height          =   225
-      Left            =   210
+      Left            =   1650
       TabIndex        =   4
-      Top             =   780
-      Width           =   4005
+      Top             =   1620
+      Width           =   1005
    End
    Begin VB.Label lblDisclaimer 
       Caption         =   "Copyright (c) 2022-2023 Py-Crawler-Dev-Team, All Rights Reserved."
@@ -75,7 +91,7 @@ Begin VB.Form frmAbout
       Height          =   465
       Left            =   255
       TabIndex        =   2
-      Top             =   2145
+      Top             =   3345
       Width           =   3990
    End
 End

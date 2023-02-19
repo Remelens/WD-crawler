@@ -160,6 +160,7 @@ End Sub
 
 Private Sub Command4_Click()
     Unload frmAbout
+    Unload Form2
     Unload Form1
 End Sub
 
