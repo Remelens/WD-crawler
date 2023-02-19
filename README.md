@@ -1,8 +1,8 @@
 <div class="center" align="center">
   <a href="#">
     <img alt="Py-Crawler-ICON" src="https://helloosdisk.wikidot.com/local--files/file:github/Pyc" width="100px">
-  </a>
-  <img alt="Py-Crawler-ICON" src="https://helloosdisk.wikidot.com/local--files/file:github/pyctext.png" width="150px">
+  </a><br/>
+  <img alt="Py-Crawler-ICON" src="https://helloosdisk.wikidot.com/local--files/file:github/pyctext.png" width="400px">
 </div>
 
 ## 维基HTML代码存档（Py-crawler）
