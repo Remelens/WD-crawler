@@ -32,9 +32,9 @@
 * 完成了？记得把html文件夹移动一下，避免混淆。
 
 ### 屏幕截图
-[![pSXVpQJ.jpg](https://s1.ax1x.com/2023/02/20/pSXVpQJ.jpg)](https://imgse.com/i/pSXVpQJ){:width="200px"}  
-[![pSXExWF.jpg](https://s1.ax1x.com/2023/02/20/pSXExWF.jpg)](https://imgse.com/i/pSXExWF){:width="200px"}  
-[![pSXEzz4.jpg](https://s1.ax1x.com/2023/02/20/pSXEzz4.jpg)](https://imgse.com/i/pSXEzz4){:width="200px"}
+<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXVpQJ.jpg" width="200px">  
+<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXExWF.jpg" width="200px">  
+<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXEzz4.jpg" width="200px">
 
 ### **反馈地址**
 
