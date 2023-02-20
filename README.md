@@ -47,10 +47,10 @@
 ----------
 
 ```
-Copyright (c) 2022 Py-crawler Dev Team
+Copyright (c) 2023 Py-crawler Dev Team
 All Rights Reserved.
 
-版权所有 (c) 2022 Py-crawler开发团队
+版权所有 (c) 2023 Py-crawler开发团队
 保留所有权利。
 
 The icon "Py-Crawler-worm" is made by hatoyama_kumiko and is applicable to CC-BY-SA-4.0 protocol.
