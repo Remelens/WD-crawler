@@ -31,6 +31,11 @@
 * 静静等待程序执行完毕吧，会有弹窗提示的。
 * 完成了？记得把html文件夹移动一下，避免混淆。
 
+### 屏幕截图
+[![pSXVpQJ.jpg](https://s1.ax1x.com/2023/02/20/pSXVpQJ.jpg)](https://imgse.com/i/pSXVpQJ){:width="200px"}  
+[![pSXExWF.jpg](https://s1.ax1x.com/2023/02/20/pSXExWF.jpg)](https://imgse.com/i/pSXExWF){:width="200px"}  
+[![pSXEzz4.jpg](https://s1.ax1x.com/2023/02/20/pSXEzz4.jpg)](https://imgse.com/i/pSXEzz4){:width="200px"}
+
 ### **反馈地址**
 
 遇到了错误或BUG？ 来 [这里](http://ld-private-website.wikidot.com/forum/c-7602918/pyc) 反馈，或者来 [这里](https://github.com/HelloOSMe/Py-crawler/issues) 反馈。
