@@ -9,18 +9,22 @@
 웹 사이트 URL/pages에 페이지를 만들고 [[module Pages preview="true"]] 코드를 추가합니다
 ```
 
-### **봇 설치**
-사이드바 'Releases'에 표시된 최신 버전을 클릭하고 Installer .exe 끝에 있는 설치 파일을 선택하십시오. 동일한 디렉터리에 파일을 설치합니다. 명령을 트리거하려면 키보드에서 해당 버튼을 클릭하기만 하면 됩니다.
+### **파충류 프로그램 설치**
 
-우리는 더 이상 Linux를 지원하지 않습니다.
+사이드바`Releases`에 표시된 최신 버전을 클릭하고'Source Code'를 선택하여 다운로드하십시오.
 
 ### **파충류가 실행됩니다**
-* 런타임에서 RunMe.vbs(GUI) 또는 main.exe(CLI)을 활성화합니다.
-* 그래픽 입력 막대(GUI) 또는 명령줄 입력 영역(CLI)에 URL을 입력하고 확인을 클릭합니다.
-* 웹 사이트 URL / 페이지 아래에 표시된 page X of X의 다음 숫자를 확인하십시오 (이 경우 다음 x).
-* 명령줄 입력 영역에 이 숫자를 입력합니다[이 수를 더 채우면(X, X≠0), 1~X의 HTML 파일(이름 pages1~pagesX.html)을 출력하지만(X-1) X와 X는 동일합니다.] 줄 바꿈합니다.
-* 프로그램이 완료될 때까지 기다립니다. (페이지가 여러 번 크롤링되는 것을 발견하면 정상이며 프로그램이 위에 있는 모든 링크를 크롤링합니다.)
-* 완료? 혼동을 피하기 위해 html 폴더를 이동하는 것을 잊지 마십시오.
+* 런타임 시 PyCrawlerGUI.exe를 활성화합니다.
+* URL에 웹 주소를 입력하고 확인을 클릭합니다.
+* 웹 사이트 URL/system을 확인하십시오: list-all-pages 페이지 아래에 표시된 page X of X의 다음 수 (이 예에서는 다음 x)
+* pages에 이 수를 입력하십시오 [이 수를 X로 설정하면 (이 수를 X, X ≠ 0) 1~X의 HTML 파일 (이름은 pages1~pagesX.html) 을 출력하지만 (X-1) 과 X는 동일합니다] 를 입력하고 줄을 바꿉니다.
+* 프로그램이 실행될 때까지 조용히 기다리세요. 탄창 알림이 있을 거예요.
+* 완료되었습니까?html 폴더를 이동해서 혼동을 피하는 것을 잊지 마세요.
+
+### **화면 캡처**
+<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXVpQJ.jpg" width="300px">  
+<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXExWF.jpg" width="300px">  
+<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXEzz4.jpg" width="300px">
 
 ### **피드백 주소입니다**
 오류 또는 BUG가 발생 되었거나? [여기](http://ld-private-website.wikidot.com/forum/c-7602918/pyc) 피드백 또는 [여기](https://github.com/TimeLine-Bookstore/Py-crawler/issues) 피드백에 오십시오.
