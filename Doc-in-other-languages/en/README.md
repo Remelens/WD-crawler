@@ -1,37 +1,46 @@
 ## Wiki HTML code archive (Py-crawler)
 
-This is used to create a crawler project that crawls all pages present on the wiki for static read-only versions of the website after the disaster. It may not be suitable for restoring the project, but provides a basis for the restore page.
-Currently, this applies to all Wikidot sites, but to prevent malicious crawlers, any site must have a pages page to crawl.
+This is used to create a crawler project for crawling all the pages existing on the wiki and for static read-only versions of the website after the disaster. It may not be applicable to the recovery project, but it provides a basis for the recovery page.
+
+Currently, this applies to all Wikidot websites, but in order to prevent malicious crawlers, any website must have a/system: list all pages page to crawl.
 
 ### **Configuration requirements**
 ```
-Create a page on your website URL/pages and add the " [[module Pages preview="true"]] " code
+Create a page on your website URL/system: list-all-pages and add [[module Pages preview="true"]] code
 ```
 
-### **Bot installation**
-Please click on the latest version displayed in the sidebar 'Releases' and select the installation file at the end of the Installer .exe. It will install the files to the same directory. All you have to do is tap the corresponding button on your keyboard to trigger the corresponding command.
+### **Crawler installation**
 
-Linux users compile their own. The generated a.html can be deleted
+Please click the latest version displayed in the 'Releases' sidebar and select "Source Code" to download.
 
-### **The crawler runs**
-* Enable RunMe.vbs (GUI) or main.exe (CLI) at runtime.
-* Enter your URL in the graphical input field (GUI) or command line input area (CLI) and click Confirm.
-* Look at the number after page X of X displayed below your website's URL/pages page (in this case, the next x)
-* Enter this number in the command line input field {if you fill in too much (let this number be X, X≠0), it will output a 1 to X HTML file (the name is pages1 to pagesX.html) but (X-1) and X are the same}, and then wrap.
-* Wait for the program to finish. (If you find that a page has multiple crawls, this is normal, the program will crawl all the links that exist on it)
-* Done? Remember to package to another folder to avoid confusion.
+### **Crawler operation**
+* Enable PyCrawlerGUI.exe at runtime.
+* Enter your URL at the URL and click OK.
+* Go to check the next number of page X of X (in this example, the next x) displayed under the URL/system: list-all-pages page of your website
+* Enter this number in pages [if you fill in more than one (set this number to X, X ≠ 0), it will output 1~X HTML files (name: pages1~pagesX. html), but (X-1) and X are the same], and then wrap.
+* Wait quietly for the program to finish executing. There will be a pop-up prompt.
+* Finished? Remember to move the html folder to avoid confusion.
+
+### **Screenshot**
+<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXVpQJ.jpg" width="300px">  
+<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXExWF.jpg" width="300px">  
+<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXEzz4.jpg" width="300px">
 
 ### **Feedback address**
-GOT AN ERROR OR BUG? Come to [here](http://ld-private-website.wikidot.com/forum/c-7602918/pyc) feedback, or come [here](https://github.com/TimeLine-Bookstore/Py-crawler/issues) feedback.
 
-Have an idea for a new feature, but don't know where to give feedback? Come to [here](http://ld-private-website.wikidot.com/forum/t-15402049/pyc-1-1-0-1-9) feedback, or come [here](https://github.com/TimeLine-Bookstore/Py-crawler/issues) feedback.
+Error or bug encountered? Come [here](http://ld-private-website.wikidot.com/forum/c-7602918/pyc) Feedback, or come [here](https://github.com/HelloOSMe/Py-crawler/issues) Feedback.
 
-Can you give us technical help? Come to [here](http://ld-private-website.wikidot.com/forum/c-7602920/) feedback, or [here](https://github.com/TimeLine-Bookstore/Py-crawler/fork) pull branches to make changes.
+Have new function ideas, but don't know where to feedback? Come [here](http://ld-private-website.wikidot.com/forum/t-15402049/pyc-1-1-0-1-9) Feedback, or come [here](https://github.com/HelloOSMe/Py-crawler/issues) Feedback.
+
+Can you provide us with technical assistance? Come [here](http://ld-private-website.wikidot.com/forum/c-7602920/) Feedback, or come [here](https://github.com/HelloOSMe/Py-crawler/fork) Pull the branch to modify it.
 
 ----------
+
 ```
-Copyright (c) 2022 TimeLine-Bookstore
+Copyright (c) 2023 Py-crawler Dev Team
 All Rights Reserved.
-版权所有 (c) 2022 时间轴书店
-保留所有权利。
+
+The icon "Py-Crawler-worm" is made by hatoyama_ kumiko and is applicable to CC-BY-SA-4.0 protocol.
+
+The application made by RedPanda Dev-Cpp , Visual Basic 6.0 and Windows Notepad.
 ```
