@@ -8,6 +8,8 @@
 </div>
 
 ----------
+## 其他语言/Language
+[English](https://github.com/HelloOSMe/Py-crawler/tree/master/Doc-in-other-languages/en) | [Русский язык](https://github.com/HelloOSMe/Py-crawler/tree/master/Doc-in-other-languages/ru) | [繁體中文](https://github.com/HelloOSMe/Py-crawler/tree/master/Doc-in-other-languages/zh-Hant) | [More...](https://github.com/HelloOSMe/Py-crawler/tree/master/Doc-in-other-languages)
 
 ## 维基HTML代码存档（Py-crawler）
 
