@@ -1,7 +1,18 @@
+<div class="center" align="center">
+  <a href="#">
+    <img alt="Py-Crawler-ICON" src="https://helloosdisk.wikidot.com/local--files/file:github/Pyc" width="100px">
+  </a><br/>
+  <img alt="Py-Crawler-ICON" src="https://helloosdisk.wikidot.com/local--files/file:github/pyctext.png" width="300px">
+  <p>Sauvegarder votre wikidot</p>
+  <img alt="" src="https://img.shields.io/github/license/HelloOSMe/Py-crawler">&nbsp;&nbsp;<img alt="" src="https://img.shields.io/github/v/release/HelloOSMe/Py-Crawler?include_prereleases">&nbsp;&nbsp;<img alt="" src="https://img.shields.io/github/stars/HelloOSMe/Py-crawler">
+</div>
+
+----------
 ## Archive de code HTML Wiki (Py-crawler)
 
 Ceci est utilisé pour créer un projet de robot d’exploration qui explore toutes les pages présentes sur le wiki pour les versions statiques en lecture seule du site Web après le sinistre. Il peut ne pas convenir à la restauration du projet, mais fournit une base pour la page de restauration.
 Actuellement, cela s’applique à tous les sites Wikidot, mais pour empêcher les robots malveillants, tout site doit avoir une page de pages à explorer.
+
 
 ### **Configuration requise**
 
@@ -9,18 +20,27 @@ Actuellement, cela s’applique à tous les sites Wikidot, mais pour empêcher l
 Créez une page sur l’URL/les pages de votre site Web et ajoutez le code [[module Pages preview="true"]]
 ```
 
-### **Installation du bot**
-Veuillez cliquer sur la dernière version affichée dans la barre latérale 'Versions' et sélectionner le fichier d’installation à la fin de la .exe d’installation. Il installera les fichiers dans le même répertoire. Tout ce que vous avez à faire est d’appuyer sur le bouton correspondant de votre clavier pour déclencher la commande correspondante.
+### **Installation du crawler**
 
-Nous ne prendrons plus en charge Linux à l’avenir.
+Veuillez cliquer sur la dernière version affichée dans la barre latérale `releases` et sélectionner “source code” pour le télécharger.
 
 ### **Le robot s’exécute**
-* Activez RunMe.vbs (GUI) ou main.exe (CLI) au moment de l’exécution.
-* Entrez votre URL dans le champ de saisie graphique (GUI) ou la zone de saisie de ligne de commande (CLI) et cliquez sur Confirmer.
-* Regardez le numéro après la page X de X affiché sous la page URL / pages de votre site Web (dans ce cas, le x suivant)
-* Entrez ce nombre dans le champ de saisie de la ligne de commande [si vous remplissez trop (que ce nombre soit X, X≠0), il produira un fichier HTML 1 ~ X (le nom est pages1 ~ pagesX.html) mais (X-1) et X sont identiques], puis encapsuler.
-* Attendez la fin du programme. (Si vous trouvez qu’une page a plusieurs crawls, c’est normal, le programme va crawler tous les liens qui existent dessus)
-* Fait? N’oubliez pas de déplacer un peu le dossier html pour éviter toute confusion.
+* pycrawlergui.exe est activé lors de l'exécution.
+
+* entrez votre adresse Web à l'URL et appuyez sur confirmer.
+
+* allez voir l'URL de votre site Web / System: List - All - pages le numéro suivant de la page x de X (dans cet exemple, le X suivant)
+
+* saisissez ce nombre dans pages [Si vous le remplissez plus (soit X, X ≠ 0), il affichera un fichier HTML de 1 à X (nommé pages1 ~ pagesx.html), mais (X - 1) et X sont identiques] et changez de ligne.
+
+* attendez tranquillement que le programme soit terminé, il y aura une invite de fenêtre.
+
+* C'est fait? N'oubliez pas de déplacer le dossier HTML pour éviter toute confusion.
+
+### **Captura de pantalla**
+<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXVpQJ.jpg" width="300px">  
+<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXExWF.jpg" width="300px">  
+<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXEzz4.jpg" width="300px">
 
 ### **Adresse de rétroaction**
 VOUS AVEZ UNE ERREUR OU UN BUG ? Venez à [ici](http://ld-private-website.wikidot.com/forum/c-7602918/pyc) commentaires, ou venez [ici](https://github.com/TimeLine-Bookstore/Py-crawler/issues) commentaires.
@@ -32,8 +52,13 @@ Pouvez-vous nous donner de l’aide technique? Venez à [ici](http://ld-private-
 ----------
 
 ```
-Copyright (c) 2022 TimeLine-Bookstore
+Copyright (c) 2023 Py-crawler Dev Team
 All Rights Reserved.
-Copyright (c) Librairie chronologique 2022
+
+Copyright (c) 2023 Py-crawler Dev Team
 Tous droits réservés.
+
+L'icon "Py - crawler - Worm" est fait par Hatoyama Kumiko et son application au Protocole CC-by-sa-4.0.
+
+L'application a été créée par redpanda dev - CPP, Visual Basic 6.0 et Windows Notepad.
 ```
