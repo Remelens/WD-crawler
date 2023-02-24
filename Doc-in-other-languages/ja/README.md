@@ -37,11 +37,11 @@ Web サイトの URL/pages にページを作成し、" [[module Pages preview="
 <img alt="" src="https://s1.ax1x.com/2023/02/20/pSXEzz4.jpg" width="300px">
 
 ### **フィードバック アドレス**
-エラーまたはバグが発生しましたか? [ここ](http://ld-private-website.wikidot.com/forum/c-7602918/pyc)フィードバック、または[ここ](https://github.com/TimeLine-Bookstore/Py-crawler/issues)フィードバックに来てください。
+エラーまたはバグが発生しましたか? [ここ](http://ld-private-website.wikidot.com/forum/c-7602918/pyc)フィードバック、または[ここ](https://github.com/HelloOSMe/Py-crawler/issues)フィードバックに来てください。
 
-新機能のアイデアがありますが、フィードバックがわからない? フィードバックを[ここ](http://ld-private-website.wikidot.com/forum/t-15402049/pyc-1-1-0-1-9)するか、[ここ](https://github.com/TimeLine-Bookstore/Py-crawler/issues)フィードバックに来てください。
+新機能のアイデアがありますが、フィードバックがわからない? フィードバックを[ここ](http://ld-private-website.wikidot.com/forum/t-15402049/pyc-1-1-0-1-9)するか、[ここ](https://github.com/HelloOSMe/Py-crawler/issues)フィードバックに来てください。
 
-あなたは私たちに技術的な助けを与えることができますか? [ここ](http://ld-private-website.wikidot.com/forum/c-7602920/)フィードバック、または[ここ](https://github.com/TimeLine-Bookstore/Py-crawler/fork)に来て、ブランチを引っ張って修正してください。
+あなたは私たちに技術的な助けを与えることができますか? [ここ](http://ld-private-website.wikidot.com/forum/c-7602920/)フィードバック、または[ここ](https://github.com/HelloOSMe/Py-crawler/fork)に来て、ブランチを引っ張って修正してください。
 
 ----------
 ```
