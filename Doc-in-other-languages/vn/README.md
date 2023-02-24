@@ -1,3 +1,14 @@
+<div class="center" align="center">
+  <a href="#">
+    <img alt="Py-Crawler-ICON" src="https://helloosdisk.wikidot.com/local--files/file:github/Pyc" width="100px">
+  </a><br/>
+  <img alt="Py-Crawler-ICON" src="https://helloosdisk.wikidot.com/local--files/file:github/pyctext.png" width="300px">
+  <p>Sao lưu wikidot của bạn</p>
+  <img alt="" src="https://img.shields.io/github/license/HelloOSMe/Py-crawler">&nbsp;&nbsp;<img alt="" src="https://img.shields.io/github/v/release/HelloOSMe/Py-Crawler?include_prereleases">&nbsp;&nbsp;<img alt="" src="https://img.shields.io/github/stars/HelloOSMe/Py-crawler">
+</div>
+
+----------
+
 ## Lưu mã Wiki HTML (Py-crawler)
 
 Đây là công trình dùng để tạo ra một công trình leo sâu, dùng để trèo lên tất cả các trang tồn tại trên wiki, dùng để chỉ đọc phiên bản tại các trang web sau khi bị thiên tai. 
@@ -11,36 +22,41 @@ Thiết lập một trang trên địa chỉ URL/pages của bạn, thêm vào [
 ```
 
 ### **Cài đặt chương trình leo sâu**
-Hãy nhấn vào thanh bên cạnh `Releases` cho phiên bản mới nhất để chọn tập tin cài đặt ở cuối Insttaller.exe. 
-Nó sẽ được cài đặt vào cùng một danh mục. 
-
-Bạn chỉ cần nhấn vào nút tương ứng trên bàn phím để kích hoạt các lệnh tương ứng. 
-Chúng ta sẽ không còn ủng hộ Linux nữa.
+Vui lòng nhấp vào phiên bản mới nhất được hiển thị trong thanh bên `Releases` và chọn "Source Code" để tải xuống.
 
 ### **Đang chạy.**
-* Cho phép RunMe.vbs (GUI) hoặc Main.exe (CLI) khi chạy. 
-* Nhập địa chỉ của bạn vào thanh nhập bản vẽ (GUI) hoặc vùng nhập dòng lệnh (CLI) để xác nhận. 
-* Hãy xem một số phía sau của fanpage X được hiển thị dưới trang URL/pages của bạn (trong trường hợp này là một x sau trong trường hợp này)
-* Nhập vùng lệnh này (nếu bạn điền số này là X, X 0), nó sẽ xuất tập tin HTML 1-X (tên là pages1-pagesX.html) nhưng (X-1) và X là cùng một dòng, sau đó chuyển sang dòng khác. 
-* Bình tĩnh chờ chương trình thực hiện xong nhé. 
-(Nếu tìm thấy một trang có nhiều lần leo lên, đó là bình thường, chương trình sẽ leo lên tất cả các liên kết tồn tại trên mặt). 
-Xong chưa? 
-Hãy nhớ di chuyển thư mục html để tránh nhầm lẫn.
+* PyCrawlerGUI.exe được kích hoạt trong thời gian chạy.
+* Nhập địa chỉ web của bạn vào URL và nhấn Xác nhận.
+* Kiểm tra URL/system:list-all-pages của trang web của bạn để xem số tiếp theo của trang X of X (trong ví dụ này là x tiếp theo)
+* Nhập số này vào pages [Nếu bạn điền nhiều (X, X ≠ 0), nó sẽ xuất ra tệp HTML từ 1 đến X (tên pages1~pagesX.html) nhưng (X-1) và X là cùng một dòng]
+* Lẳng lặng chờ đợi trình tự thi hành xong đi, sẽ có nhắc nhở cửa sổ đạn.
+
+Xong chưa? Hãy nhớ di chuyển thư mục HTML để tránh nhầm lẫn.
+
+### **Ảnh chụp màn hình**
+<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXVpQJ.jpg" width="300px">  
+<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXExWF.jpg" width="300px">  
+<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXEzz4.jpg" width="300px">
+
 
 ### **Địa chỉ phản hồi**
 Gặp lỗi hay BUG? 
-Đến [Đây](http://ld-privite-website.wikot.com/forum/c760218/pyc), hoặc [Nơi này](https://github.com/TimeLine-Bookstore/Py-crawler/issues), hoặc đến [tại đây]
+Đến [Đây](http://ld-privite-website.wikot.com/forum/c760218/pyc), hoặc [Nơi này](https://github.com/HelloOSMe/Py-crawler/issues), hoặc đến [tại đây]
 
-Có ý tưởng về tính năng mới, nhưng không biết phản hồi ở đâu? [Đây](http://ld-private-website.wikidot.com/forum/t-15402049/pyc-1-1-0-1-9) [Ở đây](https://github.com/TimeLine-Bookstore/Py-crawler/issues)Phản hồi。
+Có ý tưởng về tính năng mới, nhưng không biết phản hồi ở đâu? [Đây](http://ld-private-website.wikidot.com/forum/t-15402049/pyc-1-1-0-1-9) [Ở đây](https://github.com/HelloOSMe/Py-crawler/issues)Phản hồi。
 
-Anh có thể giúp chúng tôi về kỹ thuật không? [Đây](http://ld-private-website.wikidot.com/forum/c-7602920/)[Ở đây](https://github.com/TimeLine-Bookstore/Py-crawler/fork) Kéo nhánh để chỉnh sửa đi.
+Anh có thể giúp chúng tôi về kỹ thuật không? [Đây](http://ld-private-website.wikidot.com/forum/c-7602920/)[Ở đây](https://github.com/HelloOSMe/Py-crawler/fork) Kéo nhánh để chỉnh sửa đi.
 
 ----------
 
 ```
-Copyright (c) 2022 TimeLine-Bookstore
+Copyright (c) 2023 Py-crawler Dev Team
 All Rights Reserved.
 
-Tất cả các bản quyền (c) 2022 của các nhà sách trục thời gian. 
-giữ lại mọi quyền lợi.
+Bản quyền (c) 2023 Nhóm phát triển Pycrawler
+Tất cả các quyền được bảo lưu.
+
+Biểu tượng "Py Crawler Worm" được tạo bởi hatoyama_kumiko và áp dụng cho giao thức CC-by-SA-4.0.
+
+Ứng dụng được tạo bởi RedPanda Dev Cpp, Visual Basic 6.0 và Windows Notepad.
 ```
