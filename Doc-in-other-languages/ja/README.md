@@ -1,3 +1,14 @@
+<div class="center" align="center">
+  <a href="#">
+    <img alt="Py-Crawler-ICON" src="https://helloosdisk.wikidot.com/local--files/file:github/Pyc" width="100px">
+  </a><br/>
+  <img alt="Py-Crawler-ICON" src="https://helloosdisk.wikidot.com/local--files/file:github/pyctext.png" width="300px">
+  <p>あなたのwikidotをバックアップします</p>
+  <img alt="" src="https://img.shields.io/github/license/HelloOSMe/Py-crawler">&nbsp;&nbsp;<img alt="" src="https://img.shields.io/github/v/release/HelloOSMe/Py-Crawler?include_prereleases">&nbsp;&nbsp;<img alt="" src="https://img.shields.io/github/stars/HelloOSMe/Py-crawler">
+</div>
+
+----------
+
 ## ウィキHTMLコードアーカイブ(Py-crawler)
 
 これは、Wiki 上に存在するすべてのページをクロールするクローラ プロジェクトを作成し、被災後の Web サイトの静的読み取り専用バージョンに使用されます。 回復プロジェクトには適用されない場合がありますが、回復ページの基礎となります。
@@ -13,13 +24,18 @@ Web サイトの URL/pages にページを作成し、" [[module Pages preview="
 
 Linux ユーザーは自分でコンパイルします。 生成された a.htmlは削除できます
 
-### **クローララン**
-* ランタイムは、RunMe.vbs(GUI) または main .exe (CLI) を有効にします。
-* グラフィック入力バー (GUI) またはコマンド ライン入力領域 (CLI) に URL を入力し、[確認] をクリックします。
-* Web サイトの URL/pages ページの下に表示される page X of X の後の数 (この例では後者の x) を確認します。
-* コマンド ライン入力領域にこの数を入力します {この数を X、X、≠0 に設定すると、1 ~ X の HTML ファイル (pages1~pagesX.html) を出力しますが、(X-1) と X は同じです}、 を折り返します。
-*プログラムが実行されるのを静かに待ってください。 (ページが複数回クロールされていることが見つかった場合、それは正常であり、プログラムは上記のすべてのリンクをクロールします)
-*それは完了ですか? 混乱を避けるために、別のフォルダにパッケージ化することを忘れないでください。
+### **爬虫類運転**
+* 実行時にPyCrawlerGUI.exeを有効にします。
+* URLにあなたのURLを入力し、確認をクリックします。
+* あなたのウェブサイトURL/system：list-all-pagesページの下に表示されているpage X of Xの後ろの数を見てください（この例では後ろのxです）
+* pagesにこの数を入力して（この数をX、X≠0とする）、1～XのHTMLファイル（pages 1～pagesX.htmlという名前）を出力しますが（X-1）とXは同じです）、改行します。
+* プログラムが実行されるのを静かに待ちましょう。ポップアップが表示されます。
+* 完了しましたか？htmlフォルダを混同しないように移動してください。
+
+### **スクリーンショット**
+<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXVpQJ.jpg" width="300px">  
+<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXExWF.jpg" width="300px">  
+<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXEzz4.jpg" width="300px">
 
 ### **フィードバック アドレス**
 エラーまたはバグが発生しましたか? [ここ](http://ld-private-website.wikidot.com/forum/c-7602918/pyc)フィードバック、または[ここ](https://github.com/TimeLine-Bookstore/Py-crawler/issues)フィードバックに来てください。
@@ -30,8 +46,13 @@ Linux ユーザーは自分でコンパイルします。 生成された a.html
 
 ----------
 ```
-Copyright (c) 2022 TimeLine-Bookstore
+Copyright (c) 2023 Py-crawler Dev Team
 All Rights Reserved.
-著作権 (c) 2022 タイムライン書店
-すべての権利予約。
+
+著作権所有 (c) 2023 Py-Crawler開発チーム
+すべての権利を保持します。
+
+アイコン「Py Crawlerワーム」は、CC-by-SA-4.0プロトコルに適したhatoyama _ kumikoによって作成されています。
+
+このアプリケーションは、RedPanda Dev Cpp、Visual Basic 6.0、Windowsメモ帳から作成されます。
 ```
