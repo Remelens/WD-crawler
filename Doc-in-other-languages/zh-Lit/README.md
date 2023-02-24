@@ -31,6 +31,11 @@
 * 静待程序执行毕，有弹窗一提醒也。 (若得一页面数升取,则常也,序上所有链接)
 * 成? 记得打包一文件夹,免教混淆。
 
+### **屏之图**
+<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXVpQJ.jpg" width="300px">  
+<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXExWF.jpg" width="300px">  
+<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXEzz4.jpg" width="300px">
+
 ### **反馈地址**
 遇过与BUG? 来 [此](http://ld-private-website.wikidot.com/forum/c-7602918/pyc) 反馈,或来 [此](https://github.com/HelloOSMe/Py-crawler/issues) 反馈。
 
