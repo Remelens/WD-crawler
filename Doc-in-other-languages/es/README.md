@@ -43,11 +43,11 @@ Haga clic en la última versión mostrada en la barra lateral `releases` y elija
 
 ### **Comment**
 
-@ title: window Venu ĉi tie. [Aŭ venu ĉi tie](http://ld-private-website.wikidot.com/forum/c-7602918/pyc) - [Atendo](https://github.com/TimeLine-Bookstore/Py-crawler/issues).
+@ title: window Venu ĉi tie. [Aŭ venu ĉi tie](http://ld-private-website.wikidot.com/forum/c-7602918/pyc) - [Atendo](https://github.com/HelloOSMe/Py-crawler/issues).
 
-Ĉu havas novajn funkciajn ideojn, sed ne scias, kie resti? Venu ĉi tie. [Aŭ venu ĉi tie](http://ld-private-website.wikidot.com/forum/t-15402049/pyc-1-1-0-1-9) - [Atendo](https://github.com/TimeLine-Bookstore/Py-crawler/issues).
+Ĉu havas novajn funkciajn ideojn, sed ne scias, kie resti? Venu ĉi tie. [Aŭ venu ĉi tie](http://ld-private-website.wikidot.com/forum/t-15402049/pyc-1-1-0-1-9) - [Atendo](https://github.com/HelloOSMe/Py-crawler/issues).
 
-Ĉu vi povas provi al ni teknikan helpon? Venu ĉi tie. [Aŭ venu ĉi tie](http://ld-private-website.wikidot.com/forum/c-7602920/) - [Pulu la brancon por modifi ĝin](https://github.com/TimeLine-Bookstore/Py-crawler/fork).
+Ĉu vi povas provi al ni teknikan helpon? Venu ĉi tie. [Aŭ venu ĉi tie](http://ld-private-website.wikidot.com/forum/c-7602920/) - [Pulu la brancon por modifi ĝin](https://github.com/HelloOSMe/Py-crawler/fork).
 
 ----------
 
