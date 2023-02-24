@@ -9,21 +9,36 @@
 ```
 
 ### **爬蟲程式安裝**
-請點擊側欄`Releases`中顯示的最新版，選擇Installer.exe結尾的安裝檔。 它將會把檔案安裝到同一目錄。 你只需要在鍵盤上點擊對應按鈕即可觸發相應命令。
-
-Linux使用者自行編譯。 生成的a.html可以刪除
+請點擊側欄`Releases`中顯示的最新版，選擇“Source Code”下載。
 
 ### **爬蟲運行**
-* 運行時啟用RunMe.vbs（GUI）或main.exe（CLI）。
-* 在圖形輸入欄（GUI）或者命令行輸入區（CLI）輸入你的網址，點擊確認。
-* 去查看你的網站URL/pages頁面下面顯示的page X of X的後面一個數（在本例子中就是後面一個x）
-* 命令行輸入區輸入這個數【如果你填多了（設這個數為X，X≠0），它會輸出 1X 的HTML檔案（名稱為pages1~pagesX.html）但是（X-1）和X是同一個】，然後換行。
-* 靜靜等待程式執行完畢吧。（若發現了一個頁面有多次爬取，那是正常的，程式會爬上面存在的所有連結）
-* 完成了？ 記得打包到另一個資料夾，避免混淆。
+* 運行時啟用PyCrawlerGUI.exe。
+* 在URL處輸入你的網址，點擊確認。
+* 去查看你的網站URL/system:list-all-pages頁面下麵顯示的page X of X的後面一個數（在本例子中就是後面一個x）
+* pages處輸入這個數【如果你填多了（設這個數為X，X≠0），它會輸出1～X的HTML檔案（名稱為pages1~pagesX.html）但是（X-1）和X是同一個】，然後換行。
+* 靜靜等待程式執行完畢吧，會有彈窗提示的。
+* 完成了？ 記得把html資料夾移動一下，避免混淆。
+
+### **螢幕截圖**
+<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXVpQJ.jpg" width="300px">  
+<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXExWF.jpg" width="300px">  
+<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXEzz4.jpg" width="300px">
 
 ### **反饋位址**
-遇到了錯誤或BUG？ 來 [這裡](http://ld-private-website.wikidot.com/forum/c-7602918/pyc) 反饋，或者來 [這裡](https://github.com/TimeLine-Bookstore/Py-crawler/issues) 反饋。
+遇到了錯誤或BUG？ 來 [這裡](http://ld-private-website.wikidot.com/forum/c-7602918/pyc) 反饋，或者來 [這裡](https://github.com/HelloOSMe/Py-crawler/issues) 反饋。
 
-有新功能的想法，但是不知道在那裡反饋？ 來[這裡](http://ld-private-website.wikidot.com/forum/t-15402049/pyc-1-1-0-1-9)反饋，或者來 [這裡](https://github.com/TimeLine-Bookstore/Py-crawler/issues) 反饋。
+有新功能的想法，但是不知道在那裡反饋？ 來[這裡](http://ld-private-website.wikidot.com/forum/t-15402049/pyc-1-1-0-1-9)反饋，或者來 [這裡](https://github.com/HelloOSMe/Py-crawler/issues) 反饋。
 
-你可以給我們提供技術説明？ 來 [這裡](http://ld-private-website.wikidot.com/forum/c-7602920/) 反饋，或者來 [這裡](https://github.com/TimeLine-Bookstore/Py-crawler/fork) 拉取分支進行修改吧。
+你可以給我們提供技術説明？ 來 [這裡](http://ld-private-website.wikidot.com/forum/c-7602920/) 反饋，或者來 [這裡](https://github.com/HelloOSMe/Py-crawler/fork) 拉取分支進行修改吧。
+
+```
+Copyright (c) 2023 Py-crawler Dev Team
+All Rights Reserved.
+
+版權所有（c）2023 Py-crawler開發團隊
+保留所有權利。
+
+The icon "Py-Crawler-worm" is made by hatoyama_kumiko and is applicable to CC-BY-SA-4.0 protocol.
+
+The application made by RedPanda Dev-Cpp , Visual Basic 6.0 and Windows Notepad.
+```
