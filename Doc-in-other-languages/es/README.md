@@ -1,7 +1,18 @@
+<div class="center" align="center">
+  <a href="#">
+    <img alt="Py-Crawler-ICON" src="https://helloosdisk.wikidot.com/local--files/file:github/Pyc" width="100px">
+  </a><br/>
+  <img alt="Py-Crawler-ICON" src="https://helloosdisk.wikidot.com/local--files/file:github/pyctext.png" width="300px">
+  <p>Copia de Seguridad de tu wikidot</p>
+  <img alt="" src="https://img.shields.io/github/license/HelloOSMe/Py-crawler">&nbsp;&nbsp;<img alt="" src="https://img.shields.io/github/v/release/HelloOSMe/Py-Crawler?include_prereleases">&nbsp;&nbsp;<img alt="" src="https://img.shields.io/github/stars/HelloOSMe/Py-crawler">
+</div>
+
+----------
 ## WIKI HTML-kodarkivo (Py crawler)
 
-Tio estas uzata por krei krawler-projekton, kiu uzas por krali ĉiujn paĝojn sur la wiki, kaj estas uzata por la stata lega nura versio de la retejo post la katastrofo. Eble ne estas aplikebla por restigi la projekton, sed ĝi donas bazon por restigi la paĝon.
-Ĉi nun tio estas aplikebla al ĉiuj retpaĝoj de Wikidot. Tamen, por prevendi malbonajn kralojn, ĉiu retpaĝo devas havi paĝojn, kiujn oni volas flugi.
+Esto se utiliza para crear un proyecto de rastreador para arrastrar todas las páginas presentes en el wiki para versiones estáticas de solo lectura del sitio web después del desastre. Puede que no se aplique a las obras de restauración, pero proporciona una base para restaurar la página.
+
+Por el momento, esto se aplica a todos los sitios web de wikidot, pero para evitar reptiles maliciosos, cualquier sitio web debe tener una página /system:list-all-pages para subir.
 
 ### **Agordo- bezonoj**
 ```
@@ -9,17 +20,26 @@ Krei paĝon sur via retpaĝo URL/paĝoj kaj aldoni [[module Pages preview="true"
 ```
 
 ### **Programinstalo**
-Bonvolu klaku la lastan version montrantan en la latera listaro 'Release' kaj elektu la instalaĵdosieron en la fino de Installer.exe. Ĝi instalos la dosierojn al la sama dosierujo. Vi nur devas klaki la konvenantan butonon sur la klavaro por lanĉi la konvenantan komandon.
 
-Linux uzantoj kompilas mem. Name
+Haga clic en la última versión mostrada en la barra lateral `releases` y elija' código fuente 'para descargarla.
 
-### **Programoperacio**
-*Ebligi RunMe.vbs (GUI) aŭ main.exe (CLI) dum la lanĉo.
-* Enmetu vian retadreson en la grafika enigada kolono (GUI) aŭ la enigada areo de komandolinio (CLI) kaj kliku OK.
-* Iru por kontroli la sekvan nombron de paĝo X de X montrita en la bazo de via retpaĝo URL/paĝo (en ĉi tiu ekzemplo, ĝi estas la lasta x)
-* Enmetu tiun nombron en la enirajn areon de komandolinio {se vi plenigos tro da nombroj (agordu tiun nombron kiel X, X ≠ 0), ĝi eligos 1X HTML dosierojn (nomitaj paĝoj1~pagesX. html), sed (X- 1) kaj X estas la sama), kaj poste ŝanĝos la linion.
-* Atendu, ke la programo finiĝu. (Se estas trovita, ke paĝo estas multfoje lanĉit a, ĝi estas normala. La programo lanĉos ĉiujn ekzistantajn ligojn sur ĝi.)
-* Finita? Memoru paketi al alia dosierujo por eviti konfuzion.
+### **Raupenbetrieb**
+* habilitar pycrawlergui.exe en tiempo de ejecución.
+
+* introduzca su sitio web en la dirección web y haga clic en confirmar.
+
+* ve a ver el último número de la página X de X que se muestra debajo de la página de tu sitio web url / system: list - all - pages (en este ejemplo es la última x)
+
+* introduzca este número en las páginas [si rellena más (deje que este número sea x, x ÷ 0), exportará archivos htl de 1 a X (nombre pages1 a pagesx.html) pero (x - 1) y X son los mismos] y luego cambie de línea.
+
+* espera en silencio a que el programa se complete, habrá un recordatorio de ventana emergente.
+
+¿¿ se ha completado? Recuerda mover la carpeta html para evitar la confusión.
+
+### **Captura de pantalla**
+<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXVpQJ.jpg" width="300px">  
+<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXExWF.jpg" width="300px">  
+<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXEzz4.jpg" width="300px">
 
 ### **Comment**
 
@@ -30,9 +50,15 @@ Linux uzantoj kompilas mem. Name
 Ĉu vi povas provi al ni teknikan helpon? Venu ĉi tie. [Aŭ venu ĉi tie](http://ld-private-website.wikidot.com/forum/c-7602920/) - [Pulu la brancon por modifi ĝin](https://github.com/TimeLine-Bookstore/Py-crawler/fork).
 
 ----------
+
 ```
-Copyright (c) 2022 TimeLine-Bookstore
+Copyright (c) 2023 Py-crawler Dev Team
 All Rights Reserved.
+
 Copyright (c) 2022 Timeline Bookstore
 Ĉiuj rajtoj rezervitaj.
+
+El icono "py crawler worm" está hecho por Hatoyama Kumiko y se aplica al Protocolo CC-by-SA-4.0.
+
+La aplicación fue producida por redpanda Dev-cpp, Visual Basic 6.0 y Windows notebook.
 ```
