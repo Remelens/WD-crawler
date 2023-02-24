@@ -37,7 +37,7 @@
 <img alt="" src="https://s1.ax1x.com/2023/02/20/pSXExWF.jpg" width="300px">  
 <img alt="" src="https://s1.ax1x.com/2023/02/20/pSXEzz4.jpg" width="300px">
 
-### **反馈地址**
+### **Адрес обратной связи**
 ВОЗНИКЛА ОШИБКА ИЛИ БАГ? Приходите к обратной связи [здесь](http://ld-private-website.wikidot.com/forum/c-7602918/pyc) или приходите [сюда](https://github.com/HelloOSMe/Py-crawler/issues) обратной связи.
 
 У вас есть идея для новой функции, но вы не знаете, где дать обратную связь? Приходите к обратной связи [здесь](http://ld-private-website.wikidot.com/forum/t-15402049/pyc-1-1-0-1-9) или приходите [сюда](https://github.com/HelloOSMe/Py-crawler/issues) обратной связи.
