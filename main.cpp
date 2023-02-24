@@ -234,38 +234,14 @@ int main(int argc,char** argv){
 		system(url2);
 		n++;
 	}
-	int threads;
-	if(argc<4){
-		cout<<"Input the threads you need> ";
-		char s;
-		cin>>s;
-		if(s>='1'&&s<='5'){
-			threads=s-'0';
-		}else{
-			ferr<<"----------------------------"<<endl;
-			ferr<<"ERR:main.exe"<<endl;
-			ferr<<"THREADS_INPUT_ERROR"<<endl;
-			exit(0);
-		}
-	}else{
-		threads=argv[3][0]-'0';
-	}
 	system("all");
 	fin.open("allurls.log");
 	string things,things2,things3,things4,things5;
 	while(getline(fin,things)){
-		if(threads>=2){
-			getline(fin,things2);
-		}
-		if(threads>=3){
-			getline(fin,things3);
-		}
-		if(threads>=4){
-			getline(fin,things4);
-		}
-		if(threads==5){
-			getline(fin,things5);
-		}
+		getline(fin,things2);
+		getline(fin,things3);
+		getline(fin,things4);
+		getline(fin,things5);
 		char thing[512]={'\0'};
 		for(int i=0;i<things.size();i++){
 			thing[i]=things[i];
@@ -287,23 +263,15 @@ int main(int argc,char** argv){
 			thing5[i]=things5[i];
 		}
 		thread th1 (crawler,url,thing,"a.html");
+		thread th2 (crawler1,url,thing2,"b.html");
+		thread th3 (crawler2,url,thing3,"c.html");
+		thread th4 (crawler3,url,thing4,"d.html");
+		thread th5 (crawler4,url,thing5,"e.html");
 		th1.join();
-		if(threads>=2){
-			thread th2 (crawler1,url,thing2,"b.html");
-			th2.join();
-		}
-		if(threads>=3){
-			thread th3 (crawler2,url,thing3,"c.html");
-			th3.join();
-		}
-		if(threads>=4){
-			thread th4 (crawler3,url,thing4,"d.html");
-			th4.join();
-		}
-		if(threads==5){
-			thread th5 (crawler4,url,thing5,"e.html");
-			th5.join();
-		}
+		th2.join();
+		th3.join();
+		th4.join();
+		th5.join();
 		//cout<<url2<<endl;
 	}
 	fin.close();
