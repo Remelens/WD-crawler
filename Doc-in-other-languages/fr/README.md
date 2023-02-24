@@ -43,11 +43,11 @@ Veuillez cliquer sur la dernière version affichée dans la barre latérale `rel
 <img alt="" src="https://s1.ax1x.com/2023/02/20/pSXEzz4.jpg" width="300px">
 
 ### **Adresse de rétroaction**
-VOUS AVEZ UNE ERREUR OU UN BUG ? Venez à [ici](http://ld-private-website.wikidot.com/forum/c-7602918/pyc) commentaires, ou venez [ici](https://github.com/TimeLine-Bookstore/Py-crawler/issues) commentaires.
+VOUS AVEZ UNE ERREUR OU UN BUG ? Venez à [ici](http://ld-private-website.wikidot.com/forum/c-7602918/pyc) commentaires, ou venez [ici](https://github.com/HelloOSMe/Py-crawler/issues) commentaires.
 
-Vous avez une idée pour une nouvelle fonctionnalité, mais vous ne savez pas où donner votre avis ? Venez à [ici](http://ld-private-website.wikidot.com/forum/t-15402049/pyc-1-1-0-1-9) commentaires, ou venez [ici](https://github.com/TimeLine-Bookstore/Py-crawler/issues) commentaires.
+Vous avez une idée pour une nouvelle fonctionnalité, mais vous ne savez pas où donner votre avis ? Venez à [ici](http://ld-private-website.wikidot.com/forum/t-15402049/pyc-1-1-0-1-9) commentaires, ou venez [ici](https://github.com/HelloOSMe/Py-crawler/issues) commentaires.
 
-Pouvez-vous nous donner de l’aide technique? Venez à [ici](http://ld-private-website.wikidot.com/forum/c-7602920/) commentaires, ou [ici](https://github.com/TimeLine-Bookstore/Py-crawler/fork) tirez des branches pour apporter des modifications.
+Pouvez-vous nous donner de l’aide technique? Venez à [ici](http://ld-private-website.wikidot.com/forum/c-7602920/) commentaires, ou [ici](https://github.com/HelloOSMe/Py-crawler/fork) tirez des branches pour apporter des modifications.
 
 ----------
 
