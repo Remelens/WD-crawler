@@ -55,7 +55,7 @@ Haga clic en la última versión mostrada en la barra lateral `releases` y elija
 Copyright (c) 2023 Py-crawler Dev Team
 All Rights Reserved.
 
-Copyright (c) 2022 Timeline Bookstore
+Copyright (c) 2023 Py-crawler Dev Team
 Ĉiuj rajtoj rezervitaj.
 
 El icono "py crawler worm" está hecho por Hatoyama Kumiko y se aplica al Protocolo CC-by-SA-4.0.
