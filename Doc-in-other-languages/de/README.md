@@ -1,27 +1,45 @@
-## Wiki HTML Code Archiv（Py-crawler）
-Dies wird verwendet, um ein Crawler-Projekt zu erstellen, das alle im Wiki vorhandenen Seiten nach statischen schreibgeschützten Versionen der Website nach dem Notfall durchsucht. Es ist möglicherweise nicht für die Wiederherstellung des Projekts geeignet, bietet aber eine Grundlage für die Wiederherstellungsseite.
-Derzeit gilt dies für alle Wikidot-Websites, aber um bösartige Crawler zu verhindern, muss jede Website eine Seitenseite zum Crawlen haben.
+<div class="center" align="center">
+  <a href="#">
+    <img alt="Py-Crawler-ICON" src="https://helloosdisk.wikidot.com/local--files/file:github/Pyc" width="100px">
+  </a><br/>
+  <img alt="Py-Crawler-ICON" src="https://helloosdisk.wikidot.com/local--files/file:github/pyctext.png" width="300px">
+  <p>Sichern Sie Ihren Wikidot</p>
+  <img alt="" src="https://img.shields.io/github/license/HelloOSMe/Py-crawler">&nbsp;&nbsp;<img alt="" src="https://img.shields.io/github/v/release/HelloOSMe/Py-Crawler?include_prereleases">&nbsp;&nbsp;<img alt="" src="https://img.shields.io/github/stars/HelloOSMe/Py-crawler">
+</div>
+
+----------
+
+## Wiki HTML Code Archiv (Py-Crawler)
+
+Dies wird verwendet, um ein Crawler-Projekt zum Crawlen aller im Wiki vorhandenen Seiten und für statische schreibgeschützte Versionen der Website nach der Katastrophe zu erstellen. Sie ist möglicherweise nicht auf das Wiederherstellungsprojekt anwendbar, bietet aber eine Grundlage für die Wiederherstellungsseite.
+
+Derzeit gilt dies für alle Wikidot-Websites, aber um bösartige Crawler zu verhindern, muss jede Website ein/system haben: listet alle Seiten auf, die gecrawlt werden sollen.
 
 ### **Konfigurationsanforderungen**
 
 ```
-Erstellen Sie eine Seite auf Ihrer Website-URL/-Seiten und fügen Sie den Code [[module Pages preview="true"]] hinzu
+Erstellen Sie eine Seite auf Ihrer Website URL/System: list-all-pages und fügen Sie [[module Pages preview="true"]] Code hinzu
 ```
 
-### **Bot-Installation**
-Bitte klicken Sie auf die neueste Version, die in der Seitenleiste `Releases` angezeigt wird, und wählen Sie die Installationsdatei am Ende der Installer-.exe aus. Die Dateien werden im selben Verzeichnis installiert. Alles, was Sie tun müssen, ist auf die entsprechende Taste auf Ihrer Tastatur zu tippen, um den entsprechenden Befehl auszulösen.
+### **Raupeninstallation**
+Bitte klicken Sie auf die neueste Version in der Seitenleiste `Releases` und wählen Sie "Source Code" zum Herunterladen.
 
-Linux-Benutzer kompilieren ihre eigenen. Die generierte a.html kann gelöscht werden
+### **Raupenbetrieb**
+* PyCrawlerGUI.exe zur Laufzeit aktivieren.
+ *Geben Sie Ihre URL an der URL ein und klicken Sie auf OK.
+* Überprüfen Sie die nächste Anzahl der Seite X von X (in diesem Beispiel das nächste x), die unter der URL/system: list-all-pages Seite Ihrer Website angezeigt wird.
+* Geben Sie diese Zahl in Seiten ein [wenn Sie mehr als eine ausfüllen (setzen Sie diese Zahl auf X, X ≠ 0), es werden 1~X HTML Dateien ausgegeben (Name: pages1~pagesX. html), aber (X-1) und X sind gleich), und dann umbrechen.
+* Warten Sie ruhig, bis das Programm beendet ist. Es wird eine Popup-Aufforderung angezeigt.
+* Fertig? Denken Sie daran, den html-Ordner zu verschieben, um Verwirrung zu vermeiden.
 
-### **Der Crawler läuft**
-* Aktivieren Sie RunMe.vbs (GUI) oder main.exe (CLI) zur Laufzeit.
-* Geben Sie Ihre URL in das grafische Eingabefeld (GUI) oder den Befehlszeileneingabebereich (CLI) ein und klicken Sie auf Bestätigen.
-* Schauen Sie sich die Zahl nach Seite X von X an, die unter der URL / Seitenseite Ihrer Website angezeigt wird (in diesem Fall das nächste x)
-* Geben Sie diese Nummer in das Eingabefeld der Befehlszeile ein {wenn Sie zu viel eingeben (lassen Sie diese Zahl X, X≠0 sein), wird eine 1~X HTML-Datei ausgegeben (der Name ist pages1 to pagesX.html), aber ( X-1 ) und X sind gleich} und dann umbrechen.
-* Warten Sie, bis das Programm abgeschlossen ist. (Wenn Sie feststellen, dass eine Seite mehrere Crawls hat, ist dies normal, das Programm crawlt alle Links, die darauf vorhanden sind.)
-*Fertig? Denken Sie daran, in einen anderen Ordner zu packen, um Verwirrung zu vermeiden.
+### **Screenshot**
+<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXVpQJ.jpg" width="300px">  
+<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXExWF.jpg" width="300px">  
+<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXEzz4.jpg" width="300px">
 
 ### **Feedback-Adresse**
+
+
 HABEN SIE EINEN FEHLER ODER BUG? Kommen Sie zu [hier](http://ld-private-website.wikidot.com/forum/c-7602918/pyc) Feedback oder kommen Sie [hier](https://github.com/TimeLine-Bookstore/Py-crawler/issues) Feedback.
 
 Sie haben eine Idee für ein neues Feature, wissen aber nicht, wo Sie Feedback geben sollen? Kommen Sie zu [hier](http://ld-private-website.wikidot.com/forum/t-15402049/pyc-1-1-0-1-9) Feedback oder kommen Sie [hier](https://github.com/TimeLine-Bookstore/Py-crawler/issues) Feedback.
@@ -31,8 +49,13 @@ Können Sie uns technische Hilfe geben? Holen Sie sich [hier](http://ld-private-
 ----------
 
 ```
-Copyright (c) 2022 TimeLine-Bookstore
+Copyright (c) 2023 Py-crawler Dev Team
 All Rights Reserved.
+
 Copyright (c) 2022 Timeline Bookstore
 Alle Rechte vorbehalten.
+
+Das Icon "Py-Crawler-worm" wurde von hatoyama_kumiko hergestellt und ist auf das CC-BY-SA-4.0 Protokoll anwendbar.
+
+Die Anwendung gemacht von RedPanda Dev-Cpp und Visual Basic 6.0 und Windows Notepad.
 ```
