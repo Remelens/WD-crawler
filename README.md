@@ -8,6 +8,9 @@
 </div>
 
 ----------
+# 基础功能完成，项目暂时停止更新，但是这不代表项目会停止维护。
+# Project temporarily stopped updating.
+
 ## 其他语言/Language
 [English](https://github.com/HelloOSMe/Py-crawler/tree/master/Doc-in-other-languages/en) | [Русский язык](https://github.com/HelloOSMe/Py-crawler/tree/master/Doc-in-other-languages/ru) | [繁體中文](https://github.com/HelloOSMe/Py-crawler/tree/master/Doc-in-other-languages/zh-Hant) | [More...](https://github.com/HelloOSMe/Py-crawler/tree/master/Doc-in-other-languages)
 
