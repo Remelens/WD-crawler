@@ -32,9 +32,9 @@ However, when translating, we strongly recommend that you try to look at the rel
 
 ----------
 ```
-Copyright (c) 2022 Py-crawler Dev Team
+Copyright (c) 2022-2023 HelloOSMe
 All Rights Reserved.
 
-版权所有 (c) 2022 Py-crawler开发团队
+版权所有 (c) 2022-2023 HelloOSMe
 保留所有权利。
 ```
