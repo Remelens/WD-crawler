@@ -39,16 +39,16 @@ Please click the latest version displayed in the 'Releases' sidebar and select "
 
 ### **Feedback address**
 
-Error or bug encountered? Come [here](http://ld-private-website.wikidot.com/forum/c-7602918/pyc) Feedback, or come [here](https://github.com/HelloOSMe/Py-crawler/issues) Feedback.
+Error or bug encountered? Come [here](https://github.com/HelloOSMe/Py-crawler/issues) Feedback.
 
-Have new function ideas, but don't know where to feedback? Come [here](http://ld-private-website.wikidot.com/forum/t-15402049/pyc-1-1-0-1-9) Feedback, or come [here](https://github.com/HelloOSMe/Py-crawler/issues) Feedback.
+Have new function ideas, but don't know where to feedback? Come [here](https://github.com/HelloOSMe/Py-crawler/issues) Feedback.
 
-Can you provide us with technical assistance? Come [here](http://ld-private-website.wikidot.com/forum/c-7602920/) Feedback, or come [here](https://github.com/HelloOSMe/Py-crawler/fork) Pull the branch to modify it.
+Can you provide us with technical assistance? Come [here](https://github.com/HelloOSMe/Py-crawler/fork) Pull the branch to modify it.
 
 ----------
 
 ```
-Copyright (c) 2023 Py-crawler Dev Team
+Copyright (c) 2022-2023 HelloOSMe
 All Rights Reserved.
 
 The icon "Py-Crawler-worm" is made by hatoyama_ kumiko and is applicable to CC-BY-SA-4.0 protocol.
