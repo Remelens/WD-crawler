@@ -38,18 +38,18 @@
 <img alt="" src="https://s1.ax1x.com/2023/02/20/pSXEzz4.jpg" width="300px">
 
 ### **Адрес обратной связи**
-ВОЗНИКЛА ОШИБКА ИЛИ БАГ? Приходите к обратной связи [здесь](http://ld-private-website.wikidot.com/forum/c-7602918/pyc) или приходите [сюда](https://github.com/HelloOSMe/Py-crawler/issues) обратной связи.
+ВОЗНИКЛА ОШИБКА ИЛИ БАГ? Приходите к обратной связи [здесь](https://github.com/HelloOSMe/Py-crawler/issues) обратной связи.
 
-У вас есть идея для новой функции, но вы не знаете, где дать обратную связь? Приходите к обратной связи [здесь](http://ld-private-website.wikidot.com/forum/t-15402049/pyc-1-1-0-1-9) или приходите [сюда](https://github.com/HelloOSMe/Py-crawler/issues) обратной связи.
+У вас есть идея для новой функции, но вы не знаете, где дать обратную связь? Приходите к обратной связи [здесь](https://github.com/HelloOSMe/Py-crawler/issues) обратной связи.
 
-Можете ли вы оказать нам техническую помощь? Приходите к обратной связи [здесь](http://ld-private-website.wikidot.com/forum/c-7602920/) или [здесь](https://github.com/HelloOSMe/Py-crawler/fork) вытягивайте ветви, чтобы внести изменения.
+Можете ли вы оказать нам техническую помощь? Приходите к обратной связи [здесь](https://github.com/HelloOSMe/Py-crawler/fork) вытягивайте ветви, чтобы внести изменения.
 
 ----------
 ```
-Copyright (c) 2023 Py-crawler Dev Team
+Copyright (c) 2022-2023 HelloOSMe
 All Rights Reserved.
 
-Авторское право (c) 2023 Pycrawler Команда разработчиков
+Авторское право (c) 2022-2023 HelloOSMe
 Все права сохраняются.
 
 Значок « Червь Py Crawler» был создан hatoyama kumiko и работает с протоколом CC - by - SA - 4.0.
