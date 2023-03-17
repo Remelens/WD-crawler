@@ -40,19 +40,19 @@ Por favor, clique na versão mais recente exibida na barra lateral 'Releases' e 
 <img alt="" src="https://s1.ax1x.com/2023/02/20/pSXEzz4.jpg" width="300px">
 
 ### **Endereço de feedback**
-TEM UM ERRO OU ESCUTA? Venha para o feedback [aqui](http://ld-private-website.wikidot.com/forum/c-7602918/pyc) ou venha [aqui](https://github.com/HelloOSMe/Py-crawler/issues) feedback.
+TEM UM ERRO OU ESCUTA? Venha para o feedback [aqui](https://github.com/HelloOSMe/Py-crawler/issues) feedback.
 
-Tem uma ideia para uma nova funcionalidade, mas não sabe onde dar feedback? Venha para o feedback [aqui](http://ld-private-website.wikidot.com/forum/t-15402049/pyc-1-1-0-1-9) ou venha [aqui](https://github.com/HelloOSMe/Py-crawler/issues) feedback.
+Tem uma ideia para uma nova funcionalidade, mas não sabe onde dar feedback? Venha para o feedback [aqui](https://github.com/HelloOSMe/Py-crawler/issues) feedback.
 
-Pode dar-nos ajuda técnica? Venha para o feedback [aqui](http://ld-private-website.wikidot.com/forum/c-7602920/), ou [aqui](https://github.com/HelloOSMe/Py-crawler/fork) puxe ramos para fazer alterações.
+Pode dar-nos ajuda técnica? Venha para o feedback [aqui](https://github.com/HelloOSMe/Py-crawler/fork) puxe ramos para fazer alterações.
 
 ----------
 
 ```
-Copyright (c) 2023 Py-crawler Dev Team
+Copyright (c) 2022-2023 HelloOSMe
 All Rights Reserved.
 
-Copyright (c) 2023 Py- crawler Dev Team
+Copyright (c) 2022-2023 HelloOSMe
 Todos os direitos reservados.
 
 O ícone "Py-Crawler-worm" é feito por hatoyama_kumiko e é aplicável ao protocolo CC-BY-SA-4.0.
