@@ -41,19 +41,19 @@ Xong chưa? Hãy nhớ di chuyển thư mục HTML để tránh nhầm lẫn.
 
 ### **Địa chỉ phản hồi**
 Gặp lỗi hay BUG? 
-Đến [Đây](http://ld-privite-website.wikot.com/forum/c760218/pyc), hoặc [Nơi này](https://github.com/HelloOSMe/Py-crawler/issues), hoặc đến [tại đây]
+Đến [Đây](https://github.com/HelloOSMe/Py-crawler/issues), hoặc đến [tại đây]
 
-Có ý tưởng về tính năng mới, nhưng không biết phản hồi ở đâu? [Đây](http://ld-private-website.wikidot.com/forum/t-15402049/pyc-1-1-0-1-9) [Ở đây](https://github.com/HelloOSMe/Py-crawler/issues)Phản hồi。
+Có ý tưởng về tính năng mới, nhưng không biết phản hồi ở đâu? [Đây](https://github.com/HelloOSMe/Py-crawler/issues)Phản hồi。
 
-Anh có thể giúp chúng tôi về kỹ thuật không? [Đây](http://ld-private-website.wikidot.com/forum/c-7602920/)[Ở đây](https://github.com/HelloOSMe/Py-crawler/fork) Kéo nhánh để chỉnh sửa đi.
+Anh có thể giúp chúng tôi về kỹ thuật không? [Đây](https://github.com/HelloOSMe/Py-crawler/fork) Kéo nhánh để chỉnh sửa đi.
 
 ----------
 
 ```
-Copyright (c) 2023 Py-crawler Dev Team
+Copyright (c) 2022-2023 HelloOSMe
 All Rights Reserved.
 
-Bản quyền (c) 2023 Nhóm phát triển Pycrawler
+Bản quyền (c) 2022-2023 HelloOSMe
 Tất cả các quyền được bảo lưu.
 
 Biểu tượng "Py Crawler Worm" được tạo bởi hatoyama_kumiko và áp dụng cho giao thức CC-by-SA-4.0.
