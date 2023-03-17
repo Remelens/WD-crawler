@@ -49,10 +49,10 @@ Können Sie uns technische Hilfe geben? Holen Sie sich [hier](https://github.com
 ----------
 
 ```
-Copyright (c) 2023 HelloOSMe
+Copyright (c) 2022-2023 HelloOSMe
 All Rights Reserved.
 
-Copyright (c) 2023 HelloOSMe
+Copyright (c) 2022-2023 HelloOSMe
 Alle Rechte vorbehalten.
 
 Das Icon "Py-Crawler-worm" wurde von hatoyama_kumiko hergestellt und ist auf das CC-BY-SA-4.0 Protokoll anwendbar.
