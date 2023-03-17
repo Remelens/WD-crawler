@@ -40,19 +40,19 @@ Bitte klicken Sie auf die neueste Version in der Seitenleiste `Releases` und wä
 ### **Feedback-Adresse**
 
 
-HABEN SIE EINEN FEHLER ODER BUG? Kommen Sie zu [hier](http://ld-private-website.wikidot.com/forum/c-7602918/pyc) Feedback oder kommen Sie [hier](https://github.com/HelloOSMe/Py-crawler/issues) Feedback.
+HABEN SIE EINEN FEHLER ODER BUG? Kommen Sie zu [hier](https://github.com/HelloOSMe/Py-crawler/issues) Feedback.
 
-Sie haben eine Idee für ein neues Feature, wissen aber nicht, wo Sie Feedback geben sollen? Kommen Sie zu [hier](http://ld-private-website.wikidot.com/forum/t-15402049/pyc-1-1-0-1-9) Feedback oder kommen Sie [hier](https://github.com/HelloOSMe/Py-crawler/issues) Feedback.
+Sie haben eine Idee für ein neues Feature, wissen aber nicht, wo Sie Feedback geben sollen? Kommen Sie zu [hier](https://github.com/HelloOSMe/Py-crawler/issues) Feedback.
 
-Können Sie uns technische Hilfe geben? Holen Sie sich [hier](http://ld-private-website.wikidot.com/forum/c-7602920/) Feedback oder ziehen Sie [hier](https://github.com/HelloOSMe/Py-crawler/fork) Zweige, um Änderungen vorzunehmen.
+Können Sie uns technische Hilfe geben? Holen Sie sich [hier](https://github.com/HelloOSMe/Py-crawler/fork) Zweige, um Änderungen vorzunehmen.
 
 ----------
 
 ```
-Copyright (c) 2023 Py-crawler Dev Team
+Copyright (c) 2023 HelloOSMe
 All Rights Reserved.
 
-Copyright (c) 2023 Py-crawler Dev Team
+Copyright (c) 2023 HelloOSMe
 Alle Rechte vorbehalten.
 
 Das Icon "Py-Crawler-worm" wurde von hatoyama_kumiko hergestellt und ist auf das CC-BY-SA-4.0 Protokoll anwendbar.
