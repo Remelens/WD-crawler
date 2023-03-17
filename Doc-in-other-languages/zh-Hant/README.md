@@ -35,17 +35,17 @@
 <img alt="" src="https://s1.ax1x.com/2023/02/20/pSXEzz4.jpg" width="300px">
 
 ### **反饋位址**
-遇到了錯誤或BUG？ 來 [這裡](http://ld-private-website.wikidot.com/forum/c-7602918/pyc) 反饋，或者來 [這裡](https://github.com/HelloOSMe/Py-crawler/issues) 反饋。
+遇到了錯誤或BUG？ 來 [這裡](https://github.com/HelloOSMe/Py-crawler/issues) 反饋。
 
-有新功能的想法，但是不知道在那裡反饋？ 來[這裡](http://ld-private-website.wikidot.com/forum/t-15402049/pyc-1-1-0-1-9)反饋，或者來 [這裡](https://github.com/HelloOSMe/Py-crawler/issues) 反饋。
+有新功能的想法，但是不知道在那裡反饋？ 來 [這裡](https://github.com/HelloOSMe/Py-crawler/issues) 反饋。
 
-你可以給我們提供技術説明？ 來 [這裡](http://ld-private-website.wikidot.com/forum/c-7602920/) 反饋，或者來 [這裡](https://github.com/HelloOSMe/Py-crawler/fork) 拉取分支進行修改吧。
+你可以給我們提供技術説明？ 來 [這裡](https://github.com/HelloOSMe/Py-crawler/fork) 拉取分支進行修改吧。
 
 ```
-Copyright (c) 2023 Py-crawler Dev Team
+Copyright (c) 2022-2023 HelloOSMe
 All Rights Reserved.
 
-版權所有（c）2023 Py-crawler開發團隊
+版權所有（c）2022-2023 HelloOSMe
 保留所有權利。
 
 The icon "Py-Crawler-worm" is made by hatoyama_kumiko and is applicable to CC-BY-SA-4.0 protocol.
