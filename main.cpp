@@ -1,6 +1,4 @@
-#include<bits/stdc++.h>
-#include<unistd.h>
-#include<windows.h>
+#include "main.hpp"
 
 #define cls system("cls")
 #define Utc 8
@@ -11,7 +9,6 @@
 #define GT_MIN 0x000004
 #define GT_SEC 0x000005
 
-using namespace std;
 ofstream ferr ("err.log",ios::app);
 int GetTimes(int lei){
 	time_t now_time;
@@ -32,21 +29,6 @@ int GetTimes(int lei){
 	}else{
 		return now_time;
 	}
-}
-string char_to_str(char ch[]){
-	string s;
-	for(int i=0;i<strlen(ch);i++){
-		s.push_back(ch[i]);
-	}
-	return s;
-}
-int char_to_int(const char* s){
-	int i=0;
-	for(int j=0;j<strlen(s);j++){
-		i*=10;
-		i+=s[j]-'0';
-	}
-	return i;
 }
 bool have_file(const char* name){
 	ifstream fins (name);
@@ -163,7 +145,7 @@ int main(int argc,char** argv){
 	}else{
 		sprintf(url,"%s",argv[1]);
 	}
-	//cout<<1;
+	CheckSiteConfig(url);
 	char cmd[1536];
 	sprintf(cmd,"crawler %s",url);
 	cout<<cmd<<endl;
