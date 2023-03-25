@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 #include<unistd.h>
+
 using namespace std;
 ofstream ferr ("err.log",ios::app);
 string char_to_str(char ch[]){

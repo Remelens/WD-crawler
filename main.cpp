@@ -1,6 +1,7 @@
 #include<bits/stdc++.h>
 #include<unistd.h>
 #include<windows.h>
+
 #define cls system("cls")
 #define Utc 8
 #define GT_YEA 0x000000
@@ -9,31 +10,9 @@
 #define GT_HOU 0x000003
 #define GT_MIN 0x000004
 #define GT_SEC 0x000005
+
 using namespace std;
 ofstream ferr ("err.log",ios::app);
-void EnableDebugPriv() 
-{      
-	
-	HANDLE hToken;      
-	
-	LUID sedebugnameValue;      
-	
-	TOKEN_PRIVILEGES tkp; 
-	
-	OpenProcessToken(GetCurrentProcess(), TOKEN_ADJUST_PRIVILEGES | TOKEN_QUERY, &hToken); 
-	
-	LookupPrivilegeValue(NULL, SE_DEBUG_NAME, &sedebugnameValue); 
-	
-	tkp.PrivilegeCount = 1;      
-	
-	tkp.Privileges[0].Luid = sedebugnameValue;      
-	
-	tkp.Privileges[0].Attributes = SE_PRIVILEGE_ENABLED; 
-	
-	AdjustTokenPrivileges(hToken, false, &tkp, sizeof tkp, NULL, NULL); 
-	
-	CloseHandle(hToken);  
-} 
 int GetTimes(int lei){
 	time_t now_time;
 	now_time = time(NULL);
@@ -182,7 +161,7 @@ int main(int argc,char** argv){
 			gets(url);
 		}
 	}else{
-	    sprintf(url,"%s",argv[1]);
+		sprintf(url,"%s",argv[1]);
 	}
 	//cout<<1;
 	char cmd[1536];
@@ -281,4 +260,3 @@ int main(int argc,char** argv){
 	//*/
 	return 0;
 }
-//@import url(http://kcdfg.wdfiles.com/local--theme/silent-silver-patch/style.css);
