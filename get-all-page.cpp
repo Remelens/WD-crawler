@@ -46,7 +46,7 @@ int main(int argc,char** argv){
 	ofstream fout ("a.html");
 	fout.close();
 	if(have_file("a.html"))
-		system("del /f /q a.html");
+		system("rm a.html");
 	char url[1024];
 	if(argc==1){
 		ferr<<"----------------------------"<<endl;
@@ -58,7 +58,7 @@ int main(int argc,char** argv){
 	}
 	//cout<<1;
 	char cmd[1536];
-	sprintf(cmd,"crawler %s",url);
+	sprintf(cmd,"./crawler %s",url);
 	int a=system(cmd);
 	ifstream fin ("a.html");
 	if(a==1){

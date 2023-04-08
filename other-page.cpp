@@ -56,12 +56,12 @@ int main(int argc,char** argv){
 	}
 	if(have_file(argv[2])){
 		char cmd1[1024];
-		sprintf(cmd1,"del /f /q %s",argv[2]);
+		sprintf(cmd1,"rm %s",argv[2]);
 		system(cmd1);
 	}
 	//cout<<1;
 	char cmd[1536];
-	sprintf(cmd,"crawler %s %s",url,argv[2]);
+	sprintf(cmd,"./crawler %s %s",url,argv[2]);
 	int a=system(cmd);
 	ifstream fin (argv[2]);
 	if(a==1){
