@@ -24,9 +24,9 @@ Krei paĝon sur via retpaĝo URL/paĝoj kaj aldoni [[module Pages preview="true"
 Haga clic en la última versión mostrada en la barra lateral `releases` y elija' código fuente 'para descargarla.
 
 ### **Raupenbetrieb**
-* habilitar pycrawlergui.exe en tiempo de ejecución.
+* Uzu bash por exekuta en la projekta radika dosierujo dum la lanĉo `./main`.
 
-* introduzca su sitio web en la dirección web y haga clic en confirmar.
+* Enmetu vian retadreson en la adreso de la adreso kaj plenumigu ĝin kiel nova linio.
 
 * ve a ver el último número de la página X de X que se muestra debajo de la página de tu sitio web url / system: list - all - pages (en este ejemplo es la última x)
 
@@ -36,10 +36,6 @@ Haga clic en la última versión mostrada en la barra lateral `releases` y elija
 
 ¿¿ se ha completado? Recuerda mover la carpeta html para evitar la confusión.
 
-### **Captura de pantalla**
-<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXVpQJ.jpg" width="300px">  
-<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXExWF.jpg" width="300px">  
-<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXEzz4.jpg" width="300px">
 
 ### **Comment**
 
@@ -58,7 +54,5 @@ All Rights Reserved.
 Copyright (c) 2022-2023 HelloOSMe
 Ĉiuj rajtoj rezervitaj.
 
-El icono "py crawler worm" está hecho por Hatoyama Kumiko y se aplica al Protocolo CC-by-SA-4.0.
-
-La aplicación fue producida por redpanda Dev-cpp, Visual Basic 6.0 y Windows notebook.
+La aplikaĵo por Linux farita de RedPanda Dev- Cpp , Replit kaj Windows Notepad.
 ```
