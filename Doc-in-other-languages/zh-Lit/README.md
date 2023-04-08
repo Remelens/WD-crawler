@@ -24,17 +24,12 @@
 请击侧栏`Releases`，为新版，择源码击之。
 
 ### **爬虫行**
-* 行取PyCrawlerGUI.exe。
-* URL输汝诸处，点击认之。
+* 于项目根目录行`./main`。
+* URL输汝诸处，换行认之。
 * 往视网站URL/pages页面下page X of X后一数(即后一也x)
 * 令行输入区输此数【若填多之(置此数为X,X≠0),当输1至X HTML文(名为pages1~pagesX.html)然(X-1)与X同】,然后换行。
 * 静待程序执行毕，有弹窗一提醒也。 (若得一页面数升取,则常也,序上所有链接)
 * 成? 记得打包一文件夹,免教混淆。
-
-### **屏之图**
-<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXVpQJ.jpg" width="300px">  
-<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXExWF.jpg" width="300px">  
-<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXEzz4.jpg" width="300px">
 
 ### **反馈地址**
 遇过与BUG? 来 [此](https://github.com/HelloOSMe/Py-crawler/issues) 反馈。
@@ -51,7 +46,5 @@ All Rights Reserved.
 版权 2022-2023 HelloOSMe
 留中权利也。
 
-The icon "Py-Crawler-worm" is made by hatoyama_kumiko and is applicable to CC-BY-SA-4.0 protocol.
-
-The application made by RedPanda Dev-Cpp , Visual Basic 6.0 and Windows Notepad.
+The application for Linux made by RedPanda Dev-Cpp , Replit and Windows Notepad.
 ```
