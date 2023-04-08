@@ -25,8 +25,8 @@ Erstellen Sie eine Seite auf Ihrer Website URL/System: list-all-pages und fügen
 Bitte klicken Sie auf die neueste Version in der Seitenleiste `Releases` und wählen Sie "Source Code" zum Herunterladen.
 
 ### **Raupenbetrieb**
-* PyCrawlerGUI.exe zur Laufzeit aktivieren.
- *Geben Sie Ihre URL an der URL ein und klicken Sie auf OK.
+* Führen Sie `./main` im Projektstammverzeichnis mit bash zur Laufzeit aus.
+* Geben Sie Ihre Website-Adresse an der URL ein und führen Sie diese als neue Zeile aus.
 * Überprüfen Sie die nächste Anzahl der Seite X von X (in diesem Beispiel das nächste x), die unter der URL/system: list-all-pages Seite Ihrer Website angezeigt wird.
 * Geben Sie diese Zahl in Seiten ein [wenn Sie mehr als eine ausfüllen (setzen Sie diese Zahl auf X, X ≠ 0), es werden 1~X HTML Dateien ausgegeben (Name: pages1~pagesX. html), aber (X-1) und X sind gleich), und dann umbrechen.
 * Warten Sie ruhig, bis das Programm beendet ist. Es wird eine Popup-Aufforderung angezeigt.
@@ -55,7 +55,5 @@ All Rights Reserved.
 Copyright (c) 2022-2023 HelloOSMe
 Alle Rechte vorbehalten.
 
-Das Icon "Py-Crawler-worm" wurde von hatoyama_kumiko hergestellt und ist auf das CC-BY-SA-4.0 Protokoll anwendbar.
-
-Die Anwendung gemacht von RedPanda Dev-Cpp und Visual Basic 6.0 und Windows Notepad.
+Die Anwendung für Linux gemacht von RedPanda Dev-Cpp Replit und Windows Notepad.
 ```
