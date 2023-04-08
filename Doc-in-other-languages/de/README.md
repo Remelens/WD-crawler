@@ -32,11 +32,6 @@ Bitte klicken Sie auf die neueste Version in der Seitenleiste `Releases` und wä
 * Warten Sie ruhig, bis das Programm beendet ist. Es wird eine Popup-Aufforderung angezeigt.
 * Fertig? Denken Sie daran, den html-Ordner zu verschieben, um Verwirrung zu vermeiden.
 
-### **Screenshot**
-<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXVpQJ.jpg" width="300px">  
-<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXExWF.jpg" width="300px">  
-<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXEzz4.jpg" width="300px">
-
 ### **Feedback-Adresse**
 
 
