@@ -27,17 +27,12 @@ Crie uma página no URL/páginas do seu site e adicione [[module Pages preview="
 Por favor, clique na versão mais recente exibida na barra lateral 'Releases' e selecione "Source Code" para baixar.
 
 ### **O rastejador corre**
-* Habilitar PyCrawlerGUI.exe em tempo de execução.
-* Insira seu URL no URL e clique em OK.
+* Use bash para executar no diretório raiz do projeto durante o tempo de execução `./main`.
+* Digite o endereço do seu site na URL e execute-o como uma nova linha.
 * Vá para verificar o próximo número de página X de X (neste exemplo, o próximo x) exibido sob o URL/sistema: list-all-pages page do seu site
 * Digite este número nas páginas [se você preencher mais de um (defina este número como X, X ≠ 0), ele irá produzir 1~X arquivos HTML (nome: pages1~pagesX. html), mas (X-1) e X são os mesmos], e então wrap.
 * Aguarde silenciosamente até que o programa termine a execução. Haverá um prompt pop-up.
 * Terminado? Lembre-se de mover a pasta html para evitar confusão.
-
-### **Captura de Ecrã**
-<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXVpQJ.jpg" width="300px">  
-<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXExWF.jpg" width="300px">  
-<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXEzz4.jpg" width="300px">
 
 ### **Endereço de feedback**
 TEM UM ERRO OU ESCUTA? Venha para o feedback [aqui](https://github.com/HelloOSMe/Py-crawler/issues) feedback.
@@ -55,7 +50,5 @@ All Rights Reserved.
 Copyright (c) 2022-2023 HelloOSMe
 Todos os direitos reservados.
 
-O ícone "Py-Crawler-worm" é feito por hatoyama_kumiko e é aplicável ao protocolo CC-BY-SA-4.0.
-
-A aplicação feita pelo RedPanda Dev-Cpp , Visual Basic 6.0 e Windows Notepad.
+A aplicação para Linux feita por RedPanda Dev-Cpp , Replit e Windows Notepad.
 ```
