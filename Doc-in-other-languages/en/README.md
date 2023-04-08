@@ -32,11 +32,6 @@ Please click the latest version displayed in the 'Releases' sidebar and select "
 * Wait quietly for the program to finish executing. There will be a pop-up prompt.
 * Finished? Remember to move the html folder to avoid confusion.
 
-### **Screenshot**
-<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXVpQJ.jpg" width="300px">  
-<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXExWF.jpg" width="300px">  
-<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXEzz4.jpg" width="300px">
-
 ### **Feedback address**
 
 Error or bug encountered? Come [here](https://github.com/HelloOSMe/Py-crawler/issues) Feedback.
