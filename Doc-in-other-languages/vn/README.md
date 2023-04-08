@@ -25,19 +25,13 @@ Thiết lập một trang trên địa chỉ URL/pages của bạn, thêm vào [
 Vui lòng nhấp vào phiên bản mới nhất được hiển thị trong thanh bên `Releases` và chọn "Source Code" để tải xuống.
 
 ### **Đang chạy.**
-* PyCrawlerGUI.exe được kích hoạt trong thời gian chạy.
-* Nhập địa chỉ web của bạn vào URL và nhấn Xác nhận.
+* Thời gian chạy được thực hiện trong thư mục gốc của dự án với bash `./ main`。
+* Nhập địa chỉ web của bạn vào URL và thực hiện theo dòng mới.
 * Kiểm tra URL/system:list-all-pages của trang web của bạn để xem số tiếp theo của trang X of X (trong ví dụ này là x tiếp theo)
 * Nhập số này vào pages [Nếu bạn điền nhiều (X, X ≠ 0), nó sẽ xuất ra tệp HTML từ 1 đến X (tên pages1~pagesX.html) nhưng (X-1) và X là cùng một dòng]
 * Lẳng lặng chờ đợi trình tự thi hành xong đi, sẽ có nhắc nhở cửa sổ đạn.
 
 Xong chưa? Hãy nhớ di chuyển thư mục HTML để tránh nhầm lẫn.
-
-### **Ảnh chụp màn hình**
-<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXVpQJ.jpg" width="300px">  
-<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXExWF.jpg" width="300px">  
-<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXEzz4.jpg" width="300px">
-
 
 ### **Địa chỉ phản hồi**
 Gặp lỗi hay BUG? 
@@ -56,7 +50,5 @@ All Rights Reserved.
 Bản quyền (c) 2022-2023 HelloOSMe
 Tất cả các quyền được bảo lưu.
 
-Biểu tượng "Py Crawler Worm" được tạo bởi hatoyama_kumiko và áp dụng cho giao thức CC-by-SA-4.0.
-
-Ứng dụng được tạo bởi RedPanda Dev Cpp, Visual Basic 6.0 và Windows Notepad.
+Ứng dụng Linux được tạo bởi RedPanda Dev Cpp, Replit và Windows Notepad.
 ```
