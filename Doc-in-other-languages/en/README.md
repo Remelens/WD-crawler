@@ -25,8 +25,8 @@ Create a page on your website URL/system: list-all-pages and add [[module Pages 
 Please click the latest version displayed in the 'Releases' sidebar and select "Source Code" to download.
 
 ### **Crawler operation**
-* Enable PyCrawlerGUI.exe at runtime.
-* Enter your URL at the URL and click OK.
+* Use bash to execute in the project root directory during runtime/ `main`.
+* Enter your website address at the URL and execute it as a new line.
 * Go to check the next number of page X of X (in this example, the next x) displayed under the URL/system: list-all-pages page of your website
 * Enter this number in pages [if you fill in more than one (set this number to X, X ≠ 0), it will output 1~X HTML files (name: pages1~pagesX. html), but (X-1) and X are the same], and then wrap.
 * Wait quietly for the program to finish executing. There will be a pop-up prompt.
