@@ -24,17 +24,12 @@ Web サイトの URL/pages にページを作成し、" [[module Pages preview="
 サイドバー`Releases`に表示されている最新版をクリックし、「Source Code」を選択してダウンロードしてください。
 
 ### **爬虫類運転**
-* 実行時にPyCrawlerGUI.exeを有効にします。
-* URLにあなたのURLを入力し、確認をクリックします。
+* 実行時にbashを使用してプロジェクトルートの下で実行`./main`。
+* URLにURLを入力し、改行して実行します。
 * あなたのウェブサイトURL/system：list-all-pagesページの下に表示されているpage X of Xの後ろの数を見てください（この例では後ろのxです）
 * pagesにこの数を入力して（この数をX、X≠0とする）、1～XのHTMLファイル（pages 1～pagesX.htmlという名前）を出力しますが（X-1）とXは同じです）、改行します。
 * プログラムが実行されるのを静かに待ちましょう。ポップアップが表示されます。
 * 完了しましたか？htmlフォルダを混同しないように移動してください。
-
-### **スクリーンショット**
-<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXVpQJ.jpg" width="300px">  
-<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXExWF.jpg" width="300px">  
-<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXEzz4.jpg" width="300px">
 
 ### **フィードバック アドレス**
 エラーまたはバグが発生しましたか? [ここ](https://github.com/HelloOSMe/Py-crawler/issues)!
@@ -51,7 +46,5 @@ All Rights Reserved.
 著作権所有 (c) 2022-2023 HelloOSMe
 すべての権利を保持します。
 
-アイコン「Py Crawlerワーム」は、CC-by-SA-4.0プロトコルに適したhatoyama _ kumikoによって作成されています。
-
-このアプリケーションは、RedPanda Dev Cpp、Visual Basic 6.0、Windowsメモ帳から作成されます。
+RedPanda Dev Cpp、Replit、Windowsメモ帳から作成されたLinuxアプリケーション。
 ```
