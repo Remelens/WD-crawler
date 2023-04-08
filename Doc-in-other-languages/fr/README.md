@@ -25,9 +25,9 @@ Créez une page sur l’URL/les pages de votre site Web et ajoutez le code [[mod
 Veuillez cliquer sur la dernière version affichée dans la barre latérale `releases` et sélectionner “source code” pour le télécharger.
 
 ### **Le robot s’exécute**
-* pycrawlergui.exe est activé lors de l'exécution.
+* exécution avec Bash à la racine du projet `./main`.
 
-* entrez votre adresse Web à l'URL et appuyez sur confirmer.
+* entrez votre adresse Web à l'URL et passez à la ligne.
 
 * allez voir l'URL de votre site Web / System: List - All - pages le numéro suivant de la page x de X (dans cet exemple, le X suivant)
 
@@ -36,11 +36,6 @@ Veuillez cliquer sur la dernière version affichée dans la barre latérale `rel
 * attendez tranquillement que le programme soit terminé, il y aura une invite de fenêtre.
 
 * C'est fait? N'oubliez pas de déplacer le dossier HTML pour éviter toute confusion.
-
-### **Captura de pantalla**
-<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXVpQJ.jpg" width="300px">  
-<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXExWF.jpg" width="300px">  
-<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXEzz4.jpg" width="300px">
 
 ### **Adresse de rétroaction**
 VOUS AVEZ UNE ERREUR OU UN BUG ? Venez à [ici](https://github.com/HelloOSMe/Py-crawler/issues) commentaires.
@@ -58,7 +53,5 @@ All Rights Reserved.
 Copyright (c) 2023 2022-2023 HelloOSMe
 Tous droits réservés.
 
-L'icon "Py - crawler - Worm" est fait par Hatoyama Kumiko et son application au Protocole CC-by-sa-4.0.
-
-L'application a été créée par redpanda dev - CPP, Visual Basic 6.0 et Windows Notepad.
+The Application for Linux made par redpanda dev - CPP, replit et Windows Notepad.
 ```
