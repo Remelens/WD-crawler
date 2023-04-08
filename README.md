@@ -29,17 +29,12 @@
 请点击侧栏`Releases`中显示的最新版，选择"Source Code"下载。
 
 ### **爬虫运行**
-* 运行时启用PyCrawlerGUI.exe。
+* 运行时用bash在项目根目录下执行`./main`。
 * 在URL处输入你的网址，点击确认。
 * 去查看你的网站URL/system:list-all-pages页面下面显示的page X of X的后面一个数（在本例子中就是后面一个x)
 * pages处输入这个数【如果你填多了（设这个数为X，X≠0），它会输出1～X的HTML文件（名称为pages1~pagesX.html）但是(X-1)和X是同一个】，然后换行。
-* 静静等待程序执行完毕吧，会有弹窗提示的。
+* 静静等待程序执行完毕吧。
 * 完成了？记得把html文件夹移动一下，避免混淆。
-
-### 屏幕截图
-<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXVpQJ.jpg" width="300px">  
-<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXExWF.jpg" width="300px">  
-<img alt="" src="https://s1.ax1x.com/2023/02/20/pSXEzz4.jpg" width="300px">
 
 ### **反馈地址**
 
@@ -58,7 +53,5 @@ All Rights Reserved.
 版权所有 (c) 2022-2023 HelloOSMe
 保留所有权利。
 
-The icon "Py-Crawler-worm" is made by hatoyama_kumiko and is applicable to CC-BY-SA-4.0 protocol.
-
-The application made by RedPanda Dev-Cpp , Visual Basic 6.0 and Windows Notepad.
+The application for Linux made by RedPanda Dev-Cpp , Replit and Windows Notepad.
 ```
