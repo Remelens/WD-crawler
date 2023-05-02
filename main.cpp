@@ -147,7 +147,7 @@ int main(int argc,char** argv){
 	}
 	CheckSiteConfig(url);
 	char cmd[1536];
-	sprintf(cmd,"crawler %s",url);
+	sprintf(cmd,"powershell iwr -Uri %s -OutFile a.html",url);
 	cout<<cmd<<endl;
 	int a=system(cmd);
 	ifstream fin ("a.html");

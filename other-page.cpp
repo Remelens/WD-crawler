@@ -61,7 +61,7 @@ int main(int argc,char** argv){
 	}
 	//cout<<1;
 	char cmd[1536];
-	sprintf(cmd,"crawler %s %s",url,argv[2]);
+	sprintf(cmd,"powershell iwr -Uri %s -OutFile %s",url,argv[2]);
 	int a=system(cmd);
 	ifstream fin (argv[2]);
 	if(a==1){
