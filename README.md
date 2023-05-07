@@ -8,9 +8,6 @@
 </div>
 
 ----------
-# 本项目停止支持，详见[这里](https://github.com/HelloOSMe/Py-crawler/releases/tag/stop-support)。
-# Stop support.
-
 ### [LOOKING FOR THE VERSION FOR YOUR COMPUTER?](#其他版本others)
 
 Or [archive source code](https://github.com/HelloOSMe/Py-crawler/tree/Py-Crawler++)?
