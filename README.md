@@ -11,6 +11,10 @@
 # 本项目停止支持，详见[这里](https://github.com/HelloOSMe/Py-crawler/releases/tag/stop-support)。
 # Stop support.
 
+### [LOOKING FOR THE VERSION FOR YOUR COMPUTER?](#其他版本/others)
+
+Or [archive source code](https://github.com/HelloOSMe/Py-crawler/tree/Py-Crawler++)?
+
 ## 其他语言/Language
 [English](https://github.com/HelloOSMe/Py-crawler/tree/master/Doc-in-other-languages/en) | [Русский язык](https://github.com/HelloOSMe/Py-crawler/tree/master/Doc-in-other-languages/ru) | [繁體中文](https://github.com/HelloOSMe/Py-crawler/tree/master/Doc-in-other-languages/zh-Hant) | [More...](https://github.com/HelloOSMe/Py-crawler/tree/master/Doc-in-other-languages)
 
@@ -48,6 +52,16 @@
 有新功能的想法，但是不知道在那里反馈？ 来 [这里](https://github.com/HelloOSMe/Py-crawler/issues)反馈。
 
 你可以给我们提供技术帮助？ 来 [这里](https://github.com/HelloOSMe/Py-crawler/fork) 拉取分支进行修改吧。
+
+### 其他版本/others
+
+| System | CPU | Info | Link |
+| :----------- | :----------- | :----------- | :----------- |
+| <= Windows NT 6.X (<=Windws 8.1) | x86_64/ARM | :ballot_box_with_check: | [Windows-x86分支](https://github.com/HelloOSMe/Py-crawler/tree/windows-x86) |
+| Windows NT 10 | x86 | :ballot_box_with_check: | [Windows-x86分支](https://github.com/HelloOSMe/Py-crawler/tree/windows-x86) |
+| Windows NT 10 | x64/ARM | :white_check_mark: | [Windows-x64分支](https://github.com/HelloOSMe/Py-crawler/) |
+| Linux | x86_64/ARM | :ballot_box_with_check: | [Linux分支](https://github.com/HelloOSMe/Py-crawler/tree/linux) |
+| OS X | x86_64/ARM | :x: | NULL |
 
 ----------
 
