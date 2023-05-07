@@ -20,6 +20,18 @@ This is a special branch and this program is made for archive source codes.
  * Windows:`list.exe`
 
 ----------
+```
+    ||======\\     =====
+    ||       ||  //
+    ||       //  ||
+    ||======//   \\
+    ||  \\    //   =====
+    ||   \\  //  ____  ____
+    ||    \\//   |  |  |  |
+    ==     //    |---  |---
+          ===    |     |
+```
+----------
 
 ```
 Copyright (c) 2022-2023 HelloOSMe
