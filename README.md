@@ -25,8 +25,5 @@ This is a special branch and this program is made for archive source codes.
 Copyright (c) 2022-2023 HelloOSMe
 All Rights Reserved.
 
-版权所有 (c) 2022-2023 HelloOSMe
-保留所有权利。
-
 The application made by RedPanda Dev-Cpp , Visual Basic 6.0 and Windows Notepad.
 ```
