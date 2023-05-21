@@ -37,5 +37,5 @@ This is a special branch and this program is made for archive source codes.
 Copyright (c) 2022-2023 HelloOSMe
 All Rights Reserved.
 
-The application made by RedPanda Dev-Cpp , Visual Basic 6.0 and Windows Notepad.
+The application made by RedPanda Dev-Cpp , Visual Basic 6.0 , Python3.11.0a2 and Windows Notepad.
 ```
