@@ -15,9 +15,6 @@ Or [archive source code](https://github.com/HelloOSMe/Py-crawler/tree/Py-Crawler
 ## 其他语言/Language
 [English](https://github.com/HelloOSMe/Py-crawler/tree/master/Doc-in-other-languages/en) | [Русский язык](https://github.com/HelloOSMe/Py-crawler/tree/master/Doc-in-other-languages/ru) | [繁體中文](https://github.com/HelloOSMe/Py-crawler/tree/master/Doc-in-other-languages/zh-Hant) | [More...](https://github.com/HelloOSMe/Py-crawler/tree/master/Doc-in-other-languages)
 
-Project translate by HelloOSMe & lest-day (using Baidu Translator)  
-Program developed by HelloOSMe.
-
 ## 维基HTML代码存档（Py-crawler）
 
 这是用来创建一个爬虫工程，用于爬取wiki上存在的所有页面，用于在受灾后的网站静态只读版本。可能不适用于恢复工程，但是为恢复页面提供了依据。
@@ -62,6 +59,17 @@ Program developed by HelloOSMe.
 | Windows NT 10 | x64/ARM | :white_check_mark: | [Windows-x64分支](https://github.com/HelloOSMe/Py-crawler/) |
 | Linux | x86_64/ARM | :ballot_box_with_check: | [Linux分支](https://github.com/HelloOSMe/Py-crawler/tree/linux) |
 | OS X | x86_64/ARM | :x: | NULL |
+
+# 开发争议
+
+lest-day曾在其私站上说
+> 项目贡献者、命名者、翻译者、始作者lest-day
+
+对于程序而言，我**不承认**其对程序的始作、设计和贡献，只能算构思者。
+
+本程序由HelloOSMe一人开发。
+
+您大可问问其会不会C++和VB6。
 
 ----------
 
