@@ -16,7 +16,7 @@ Or [archive source code](https://github.com/HelloOSMe/Py-crawler/tree/Py-Crawler
 [English](https://github.com/HelloOSMe/Py-crawler/tree/master/Doc-in-other-languages/en) | [Русский язык](https://github.com/HelloOSMe/Py-crawler/tree/master/Doc-in-other-languages/ru) | [繁體中文](https://github.com/HelloOSMe/Py-crawler/tree/master/Doc-in-other-languages/zh-Hant) | [More...](https://github.com/HelloOSMe/Py-crawler/tree/master/Doc-in-other-languages)
 
 Project translate by HelloOSMe & lest-day (using Baidu Translator)  
-Programming developed by HelloOSMe.
+Program developed by HelloOSMe.
 
 ## 维基HTML代码存档（Py-crawler）
 
