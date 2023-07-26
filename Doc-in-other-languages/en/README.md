@@ -4,7 +4,7 @@
   </a><br/>
   <img alt="Py-Crawler-ICON" src="https://rmlsdisk.wikidot.com/local--files/file:github/pyctext.png" width="300px">
   <p>Archive your wikidot</p>
-  <img alt="" src="https://img.shields.io/github/license/Remelens/WD-crawler">&nbsp;&nbsp;<img alt="" src="https://img.shields.io/github/v/release/Remelens/ED-Crawler?include_prereleases">&nbsp;&nbsp;<img alt="" src="https://img.shields.io/github/stars/Remelens/WD-crawler">
+  <img alt="" src="https://img.shields.io/github/license/Remelens/WD-crawler">&nbsp;&nbsp;<img alt="" src="https://img.shields.io/github/v/release/Remelens/WD-Crawler?include_prereleases">&nbsp;&nbsp;<img alt="" src="https://img.shields.io/github/stars/Remelens/WD-crawler">
 </div>
 
 ----------
