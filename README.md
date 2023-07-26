@@ -75,7 +75,7 @@ lest-day曾在其私站上说
 Copyright (c) 2022-2023 Remelens
 All Rights Reserved.
 
-版权所有 (c) 2022-2023 HelloOSMe
+版权所有 (c) 2022-2023 Remelens
 保留所有权利。
 
 The icon "Py-Crawler-worm" is made by hatoyama_kumiko and is applicable to CC-BY-SA-4.0 protocol.
