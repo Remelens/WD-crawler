@@ -1,10 +1,10 @@
 <div class="center" align="center">
   <a href="#">
-    <img alt="Py-Crawler-ICON" src="https://helloosdisk.wikidot.com/local--files/file:github/Pyc" width="100px">
+    <img alt="Py-Crawler-ICON" src="https://rmlsdisk.wikidot.com/local--files/file:github/Pyc" width="100px">
   </a><br/>
-  <img alt="Py-Crawler-ICON" src="https://helloosdisk.wikidot.com/local--files/file:github/pyctext.png" width="300px">
+  <img alt="Py-Crawler-ICON" src="https://rmlsdisk.wikidot.com/local--files/file:github/pyctext.png" width="300px">
   <p>Sao lưu wikidot của bạn</p>
-  <img alt="" src="https://img.shields.io/github/license/HelloOSMe/Py-crawler">&nbsp;&nbsp;<img alt="" src="https://img.shields.io/github/v/release/HelloOSMe/Py-Crawler?include_prereleases">&nbsp;&nbsp;<img alt="" src="https://img.shields.io/github/stars/HelloOSMe/Py-crawler">
+  <img alt="" src="https://img.shields.io/github/license/Remelens/WD-crawler">&nbsp;&nbsp;<img alt="" src="https://img.shields.io/github/v/release/Remelens/WD-Crawler?include_prereleases">&nbsp;&nbsp;<img alt="" src="https://img.shields.io/github/stars/Remelens/WD-crawler">
 </div>
 
 ----------
@@ -35,11 +35,11 @@ Xong chưa? Hãy nhớ di chuyển thư mục HTML để tránh nhầm lẫn.
 
 ### **Địa chỉ phản hồi**
 Gặp lỗi hay BUG? 
-Đến [Đây](https://github.com/HelloOSMe/Py-crawler/issues), hoặc đến [tại đây]
+Đến [Đây](https://github.com/Remelens/WD-crawler/issues), hoặc đến [tại đây]
 
-Có ý tưởng về tính năng mới, nhưng không biết phản hồi ở đâu? [Đây](https://github.com/HelloOSMe/Py-crawler/issues)Phản hồi。
+Có ý tưởng về tính năng mới, nhưng không biết phản hồi ở đâu? [Đây](https://github.com/Remelens/WD-crawler/issues)Phản hồi。
 
-Anh có thể giúp chúng tôi về kỹ thuật không? [Đây](https://github.com/HelloOSMe/Py-crawler/fork) Kéo nhánh để chỉnh sửa đi.
+Anh có thể giúp chúng tôi về kỹ thuật không? [Đây](https://github.com/Remelens/WD-crawler/fork) Kéo nhánh để chỉnh sửa đi.
 
 ----------
 
