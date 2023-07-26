@@ -67,12 +67,12 @@ lest-day曾在其私站上说
 
 对于程序而言，我**不承认**其对程序的始作、设计和贡献，只能算构思者。
 
-本程序由HelloOSMe一人开发，您大可问问ld会不会C++和VB6。
+本程序由Remelens一人开发，您大可问问ld会不会C++和VB6。
 
 ----------
 
 ```
-Copyright (c) 2022-2023 HelloOSMe
+Copyright (c) 2022-2023 Remelens
 All Rights Reserved.
 
 版权所有 (c) 2022-2023 HelloOSMe
