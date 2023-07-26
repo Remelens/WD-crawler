@@ -1,10 +1,10 @@
 <div class="center" align="center">
   <a href="#">
-    <img alt="Py-Crawler-ICON" src="https://helloosdisk.wikidot.com/local--files/file:github/Pyc" width="100px">
+    <img alt="Py-Crawler-ICON" src="https://rmlsdisk.wikidot.com/local--files/file:github/Pyc" width="100px">
   </a><br/>
-  <img alt="Py-Crawler-ICON" src="https://helloosdisk.wikidot.com/local--files/file:github/pyctext.png" width="300px">
+  <img alt="Py-Crawler-ICON" src="https://rmlsdisk.wikidot.com/local--files/file:github/pyctext.png" width="300px">
   <p>Sauvegarder votre wikidot</p>
-  <img alt="" src="https://img.shields.io/github/license/HelloOSMe/Py-crawler">&nbsp;&nbsp;<img alt="" src="https://img.shields.io/github/v/release/HelloOSMe/Py-Crawler?include_prereleases">&nbsp;&nbsp;<img alt="" src="https://img.shields.io/github/stars/HelloOSMe/Py-crawler">
+  <img alt="" src="https://img.shields.io/github/license/Remelens/WD-crawler">&nbsp;&nbsp;<img alt="" src="https://img.shields.io/github/v/release/Remelens/WD-Crawler?include_prereleases">&nbsp;&nbsp;<img alt="" src="https://img.shields.io/github/stars/Remelens/WD-crawler">
 </div>
 
 ----------
@@ -43,19 +43,19 @@ Veuillez cliquer sur la dernière version affichée dans la barre latérale `rel
 <img alt="" src="https://s1.ax1x.com/2023/02/20/pSXEzz4.jpg" width="300px">
 
 ### **Adresse de rétroaction**
-VOUS AVEZ UNE ERREUR OU UN BUG ? Venez à [ici](https://github.com/HelloOSMe/Py-crawler/issues) commentaires.
+VOUS AVEZ UNE ERREUR OU UN BUG ? Venez à [ici](https://github.com/Remelens/WD-crawler/issues) commentaires.
 
-Vous avez une idée pour une nouvelle fonctionnalité, mais vous ne savez pas où donner votre avis ? Venez à [ici](https://github.com/HelloOSMe/Py-crawler/issues) commentaires.
+Vous avez une idée pour une nouvelle fonctionnalité, mais vous ne savez pas où donner votre avis ? Venez à [ici](https://github.com/Remelens/WD-crawler/issues) commentaires.
 
-Pouvez-vous nous donner de l’aide technique? Venez à [ici](https://github.com/HelloOSMe/Py-crawler/fork) tirez des branches pour apporter des modifications.
+Pouvez-vous nous donner de l’aide technique? Venez à [ici](https://github.com/Remelens/WD-crawler/fork) tirez des branches pour apporter des modifications.
 
 ----------
 
 ```
-Copyright (c) 2022-2023 HelloOSMe
+Copyright (c) 2022-2023 Remelens
 All Rights Reserved.
 
-Copyright (c) 2023 2022-2023 HelloOSMe
+Copyright (c) 2023 2022-2023 Remelens
 Tous droits réservés.
 
 L'icon "Py - crawler - Worm" est fait par Hatoyama Kumiko et son application au Protocole CC-by-sa-4.0.
