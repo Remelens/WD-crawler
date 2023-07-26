@@ -1,19 +1,19 @@
 <div class="center" align="center">
   <a href="#">
-    <img alt="Py-Crawler-ICON" src="https://helloosdisk.wikidot.com/local--files/file:github/Pyc" width="100px">
+    <img alt="Py-Crawler-ICON" src="https://rmlsdisk.wikidot.com/local--files/file:github/Pyc" width="100px">
   </a><br/>
-  <img alt="Py-Crawler-ICON" src="https://helloosdisk.wikidot.com/local--files/file:github/pyctext.png" width="300px">
+  <img alt="Py-Crawler-ICON" src="https://rmlsdisk.wikidot.com/local--files/file:github/pyctext.png" width="300px">
   <p>备份你的维基点</p>
-  <img alt="" src="https://img.shields.io/github/license/HelloOSMe/Py-crawler">&nbsp;&nbsp;<img alt="" src="https://img.shields.io/github/v/release/HelloOSMe/Py-Crawler?include_prereleases">&nbsp;&nbsp;<img alt="" src="https://img.shields.io/github/stars/HelloOSMe/Py-crawler">
+  <img alt="" src="https://img.shields.io/github/license/Remelens/WD-crawler">&nbsp;&nbsp;<img alt="" src="https://img.shields.io/github/v/release/Remelens/WD-Crawler?include_prereleases">&nbsp;&nbsp;<img alt="" src="https://img.shields.io/github/stars/Remelens/WD-crawler">
 </div>
 
 ----------
 ### [LOOKING FOR THE VERSION FOR YOUR COMPUTER?](#其他版本others)
 
-Or [archive source code](https://github.com/HelloOSMe/Py-crawler/tree/Py-Crawler++)?
+Or [archive source code](https://github.com/Remelens/WD-crawler/tree/Py-Crawler++)?
 
 ## 其他语言/Language
-[English](https://github.com/HelloOSMe/Py-crawler/tree/master/Doc-in-other-languages/en) | [Русский язык](https://github.com/HelloOSMe/Py-crawler/tree/master/Doc-in-other-languages/ru) | [繁體中文](https://github.com/HelloOSMe/Py-crawler/tree/master/Doc-in-other-languages/zh-Hant) | [More...](https://github.com/HelloOSMe/Py-crawler/tree/master/Doc-in-other-languages)
+[English](https://github.com/Remelens/WD-crawler/tree/master/Doc-in-other-languages/en) | [Русский язык](https://github.com/Remelens/WD-crawler/tree/master/Doc-in-other-languages/ru) | [繁體中文](https://github.com/Remelens/WD-crawler/tree/master/Doc-in-other-languages/zh-Hant) | [More...](https://github.com/Remelens/WD-crawler/tree/master/Doc-in-other-languages)
 
 ## 维基HTML代码存档（Py-crawler）
 
@@ -44,20 +44,20 @@ Or [archive source code](https://github.com/HelloOSMe/Py-crawler/tree/Py-Crawler
 
 ### **反馈地址**
 
-遇到了错误或BUG？ 来 [这里](https://github.com/HelloOSMe/Py-crawler/issues) 反馈。
+遇到了错误或BUG？ 来 [这里](https://github.com/Remelens/WD-crawler/issues) 反馈。
 
-有新功能的想法，但是不知道在那里反馈？ 来 [这里](https://github.com/HelloOSMe/Py-crawler/issues)反馈。
+有新功能的想法，但是不知道在那里反馈？ 来 [这里](https://github.com/Remelens/WD-crawler/issues)反馈。
 
-你可以给我们提供技术帮助？ 来 [这里](https://github.com/HelloOSMe/Py-crawler/fork) 拉取分支进行修改吧。
+你可以给我们提供技术帮助？ 来 [这里](https://github.com/Remelens/WD-crawler/fork) 拉取分支进行修改吧。
 
 ### 其他版本/others
 
 | System | CPU | Info | Link |
 | :----------- | :----------- | :----------- | :----------- |
-| <= Windows NT 6.X (<=Windws 8.1) | x86_64/ARM | :ballot_box_with_check: | [Windows-x86分支](https://github.com/HelloOSMe/Py-crawler/tree/windows-x86) |
-| Windows NT 10 | x86 | :ballot_box_with_check: | [Windows-x86分支](https://github.com/HelloOSMe/Py-crawler/tree/windows-x86) |
-| Windows NT 10 | x64/ARM | :white_check_mark: | [Windows-x64分支](https://github.com/HelloOSMe/Py-crawler/) |
-| Linux | x86_64/ARM | :ballot_box_with_check: | [Linux分支](https://github.com/HelloOSMe/Py-crawler/tree/linux) |
+| <= Windows NT 6.X (<=Windws 8.1) | x86_64/ARM | :ballot_box_with_check: | [Windows-x86分支](https://github.com/Remelens/WD-crawler/tree/windows-x86) |
+| Windows NT 10 | x86 | :ballot_box_with_check: | [Windows-x86分支](https://github.com/Remelens/WD-crawler/tree/windows-x86) |
+| Windows NT 10 | x64/ARM | :white_check_mark: | [Windows-x64分支](https://github.com/Remelens/WD-crawler/) |
+| Linux | x86_64/ARM | :ballot_box_with_check: | [Linux分支](https://github.com/Remelens/WD-crawler/tree/linux) |
 | OS X | x86_64/ARM | :x: | NULL |
 
 # 开发争议
