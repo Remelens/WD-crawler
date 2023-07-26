@@ -1,10 +1,10 @@
 <div class="center" align="center">
   <a href="#">
-    <img alt="Py-Crawler-ICON" src="https://helloosdisk.wikidot.com/local--files/file:github/Pyc" width="100px">
+    <img alt="Py-Crawler-ICON" src="https://rmlsdisk.wikidot.com/local--files/file:github/Pyc" width="100px">
   </a><br/>
-  <img alt="Py-Crawler-ICON" src="https://helloosdisk.wikidot.com/local--files/file:github/pyctext.png" width="300px">
+  <img alt="Py-Crawler-ICON" src="https://rmlsdisk.wikidot.com/local--files/file:github/pyctext.png" width="300px">
   <p>あなたのwikidotをバックアップします</p>
-  <img alt="" src="https://img.shields.io/github/license/HelloOSMe/Py-crawler">&nbsp;&nbsp;<img alt="" src="https://img.shields.io/github/v/release/HelloOSMe/Py-Crawler?include_prereleases">&nbsp;&nbsp;<img alt="" src="https://img.shields.io/github/stars/HelloOSMe/Py-crawler">
+  <img alt="" src="https://img.shields.io/github/license/Remelens/WD-crawler">&nbsp;&nbsp;<img alt="" src="https://img.shields.io/github/v/release/Remelens/WD-Crawler?include_prereleases">&nbsp;&nbsp;<img alt="" src="https://img.shields.io/github/stars/Remelens/WD-crawler">
 </div>
 
 ----------
@@ -37,18 +37,18 @@ Web サイトの URL/pages にページを作成し、" [[module Pages preview="
 <img alt="" src="https://s1.ax1x.com/2023/02/20/pSXEzz4.jpg" width="300px">
 
 ### **フィードバック アドレス**
-エラーまたはバグが発生しましたか? [ここ](https://github.com/HelloOSMe/Py-crawler/issues)!
+エラーまたはバグが発生しましたか? [ここ](https://github.com/Remelens/WD-crawler/issues)!
 
-新機能のアイデアがありますが、フィードバックがわからない? [ここ](https://github.com/HelloOSMe/Py-crawler/issues)フィードバックに来てください。
+新機能のアイデアがありますが、フィードバックがわからない? [ここ](https://github.com/Remelens/WD-crawler/issues)フィードバックに来てください。
 
-あなたは私たちに技術的な助けを与えることができますか? [ここ](https://github.com/HelloOSMe/Py-crawler/fork)に来て、ブランチを引っ張って修正してください。
+あなたは私たちに技術的な助けを与えることができますか? [ここ](https://github.com/Remelens/WD-crawler/fork)に来て、ブランチを引っ張って修正してください。
 
 ----------
 ```
-Copyright (c) 2022-2023 HelloOSMe
+Copyright (c) 2022-2023 Remelens
 All Rights Reserved.
 
-著作権所有 (c) 2022-2023 HelloOSMe
+著作権所有 (c) 2022-2023 Remelens
 すべての権利を保持します。
 
 アイコン「Py Crawlerワーム」は、CC-by-SA-4.0プロトコルに適したhatoyama _ kumikoによって作成されています。
