@@ -1,10 +1,10 @@
 <div class="center" align="center">
   <a href="#">
-    <img alt="Py-Crawler-ICON" src="https://helloosdisk.wikidot.com/local--files/file:github/Pyc" width="100px">
+    <img alt="Py-Crawler-ICON" src="https://rmlsdisk.wikidot.com/local--files/file:github/Pyc" width="100px">
   </a><br/>
-  <img alt="Py-Crawler-ICON" src="https://helloosdisk.wikidot.com/local--files/file:github/pyctext.png" width="300px">
+  <img alt="Py-Crawler-ICON" src="https://rmlsdisk.wikidot.com/local--files/file:github/pyctext.png" width="300px">
   <p>Wikidot 백업</p>
-  <img alt="" src="https://img.shields.io/github/license/HelloOSMe/Py-crawler">&nbsp;&nbsp;<img alt="" src="https://img.shields.io/github/v/release/HelloOSMe/Py-Crawler?include_prereleases">&nbsp;&nbsp;<img alt="" src="https://img.shields.io/github/stars/HelloOSMe/Py-crawler">
+  <img alt="" src="https://img.shields.io/github/license/Remelens/WD-crawler">&nbsp;&nbsp;<img alt="" src="https://img.shields.io/github/v/release/Remelens/WD-Crawler?include_prereleases">&nbsp;&nbsp;<img alt="" src="https://img.shields.io/github/stars/Remelens/WD-crawler">
 </div>
 
 ---------------
@@ -38,19 +38,19 @@
 <img alt="" src="https://s1.ax1x.com/2023/02/20/pSXEzz4.jpg" width="300px">
 
 ### **피드백 주소입니다**
-오류 또는 BUG가 발생 되었거나? [여기](https://github.com/HelloOSMe/Py-crawler/issues) 피드백에 오십시오.
+오류 또는 BUG가 발생 되었거나? [여기](https://github.com/Remelens/WD-crawler/issues) 피드백에 오십시오.
 
-새로운 기능에 대한 아이디어가 있지만 피드백이 어디에 있는지 모르습니까? [여기](https://github.com/HelloOSMe/Py-crawler/issues) 피드백에 오십시오.
+새로운 기능에 대한 아이디어가 있지만 피드백이 어디에 있는지 모르습니까? [여기](https://github.com/Remelens/WD-crawler/issues) 피드백에 오십시오.
 
-당신은 우리에게 기술 지원을 제공 할 수 있습니까? [여기](https://github.com/HelloOSMe/Py-crawler/fork)로 가서 분기를 당겨 수정합니다.
+당신은 우리에게 기술 지원을 제공 할 수 있습니까? [여기](https://github.com/Remelens/WD-crawler/fork)로 가서 분기를 당겨 수정합니다.
 
 ----------
 
 ```
-Copyright (c) 2022-2023 HelloOSMe
+Copyright (c) 2022-2023 Remelens
 All Rights Reserved.
 
-저작권 (c) 2022-2023 HelloOSMe
+저작권 (c) 2022-2023 Remelens
 모든 권리를 보유하다.
 
 아이콘 "Py Crawler 웜"은 hatoyama_kumiko에서 제작되었으며 CC-by-SA-4.0 프로토콜에 적용됩니다.
