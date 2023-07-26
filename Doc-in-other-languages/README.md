@@ -7,20 +7,20 @@ Everyone is welcome to participate in the supplementary translation of the docum
 In this section, the Documentation Center page for all officially supported languages is displayed.
 
 Rankings are in no particular order.
-* [English](https://github.com/HelloOSMe/Py-crawler/tree/master/Doc-in-other-languages/en)> English (en)
-* [繁體中文](https://github.com/HelloOSMe/Py-crawler/tree/master/Doc-in-other-languages/zh-Hant)> Chinese Traditional (zh-Hant)
-* [日本語](https://github.com/HelloOSMe/Py-crawler/tree/master/Doc-in-other-languages/ja)> Japanese (ja)
-* [한국어](https://github.com/HelloOSMe/Py-crawler/tree/master/Doc-in-other-languages/ko)> Korean (ko)
-* [Français](https://github.com/HelloOSMe/Py-crawler/tree/master/Doc-in-other-languages/fr)> French (fr)
-* [Русский язык](https://github.com/HelloOSMe/Py-crawler/tree/master/Doc-in-other-languages/ru)> Russian (ru)
-* [Deutsch](https://github.com/HelloOSMe/Py-crawler/tree/master/Doc-in-other-languages/de)> German (de)
-* [Português](https://github.com/HelloOSMe/Py-crawler/tree/master/Doc-in-other-languages/pt)> Portuguese (pt)
-* [Tiếng Việt](https://github.com/HelloOSMe/Py-crawler/tree/master/Doc-in-other-languages/vn)> Vietnam (vn)
-* [Esperanto](https://github.com/HelloOSMe/Py-crawler/tree/master/Doc-in-other-languages/es)> Esperanto (eo)
+* [English](https://github.com/Remelens/WD-crawler/tree/master/Doc-in-other-languages/en)> English (en)
+* [繁體中文](https://github.com/Remelens/WD-crawler/tree/master/Doc-in-other-languages/zh-Hant)> Chinese Traditional (zh-Hant)
+* [日本語](https://github.com/Remelens/WD-crawler/tree/master/Doc-in-other-languages/ja)> Japanese (ja)
+* [한국어](https://github.com/Remelens/WD-crawler/tree/master/Doc-in-other-languages/ko)> Korean (ko)
+* [Français](https://github.com/Remelens/WD-crawler/tree/master/Doc-in-other-languages/fr)> French (fr)
+* [Русский язык](https://github.com/Remelens/WD-crawler/tree/master/Doc-in-other-languages/ru)> Russian (ru)
+* [Deutsch](https://github.com/Remelens/WD-crawler/tree/master/Doc-in-other-languages/de)> German (de)
+* [Português](https://github.com/Remelens/WD-crawler/tree/master/Doc-in-other-languages/pt)> Portuguese (pt)
+* [Tiếng Việt](https://github.com/Remelens/WD-crawler/tree/master/Doc-in-other-languages/vn)> Vietnam (vn)
+* [Esperanto](https://github.com/Remelens/WD-crawler/tree/master/Doc-in-other-languages/es)> Esperanto (eo)
 
 These are not standard translated documents, and some don't even have standard language codes, but we'll still keep these centers.
-* [华言古文](https://github.com/HelloOSMe/Py-crawler/tree/master/Doc-in-other-languages/zh-Lit)> Chinese Literary (zh-Lit; No standard language code)
-* [梗体中文](https://github.com/HelloOSMe/Py-crawler/tree/master/Doc-in-other-languages/zh-Joke)> Chinese Joke (zh-Joke; No standard language code)
+* [华言古文](https://github.com/Remelens/WD-crawler/tree/master/Doc-in-other-languages/zh-Lit)> Chinese Literary (zh-Lit; No standard language code)
+* [梗体中文](https://github.com/Remelens/WD-crawler/tree/master/Doc-in-other-languages/zh-Joke)> Chinese Joke (zh-Joke; No standard language code)
 
 ## You translate with documents
 Before you officially translate a document, we want you to be good at using the translator and the tools you already have. Understand what features and documentation mean. If you wish, pull the branch to commit when you're done.
@@ -32,9 +32,9 @@ However, when translating, we strongly recommend that you try to look at the rel
 
 ----------
 ```
-Copyright (c) 2022-2023 HelloOSMe
+Copyright (c) 2022-2023 Remelens
 All Rights Reserved.
 
-版权所有 (c) 2022-2023 HelloOSMe
+版权所有 (c) 2022-2023 Remelens
 保留所有权利。
 ```
