@@ -1,10 +1,10 @@
 <div class="center" align="center">
   <a href="#">
-    <img alt="Py-Crawler-ICON" src="https://helloosdisk.wikidot.com/local--files/file:github/Pyc" width="100px">
+    <img alt="Py-Crawler-ICON" src="https://rmlsdisk.wikidot.com/local--files/file:github/Pyc" width="100px">
   </a><br/>
-  <img alt="Py-Crawler-ICON" src="https://helloosdisk.wikidot.com/local--files/file:github/pyctext.png" width="300px">
+  <img alt="Py-Crawler-ICON" src="https://rmlsdisk.wikidot.com/local--files/file:github/pyctext.png" width="300px">
   <p>备维基点之页面</p>
-  <img alt="" src="https://img.shields.io/github/license/HelloOSMe/Py-crawler">&nbsp;&nbsp;<img alt="" src="https://img.shields.io/github/v/release/HelloOSMe/Py-Crawler?include_prereleases">&nbsp;&nbsp;<img alt="" src="https://img.shields.io/github/stars/HelloOSMe/Py-crawler">
+  <img alt="" src="https://img.shields.io/github/license/Remelens/WD-crawler">&nbsp;&nbsp;<img alt="" src="https://img.shields.io/github/v/release/Remelens/WD-Crawler?include_prereleases">&nbsp;&nbsp;<img alt="" src="https://img.shields.io/github/stars/Remelens/WD-crawler">
 </div>
 
 ----------
@@ -32,18 +32,18 @@
 * 成? 记得打包一文件夹,免教混淆。
 
 ### **反馈地址**
-遇过与BUG? 来 [此](https://github.com/HelloOSMe/Py-crawler/issues) 反馈。
+遇过与BUG? 来 [此](https://github.com/Remelens/WD-crawler/issues) 反馈。
 
-有新功之心,而不知其所反馈? 来 [此](https://github.com/HelloOSMe/Py-crawler/issues) 反馈。
+有新功之心,而不知其所反馈? 来 [此](https://github.com/Remelens/WD-crawler/issues) 反馈。
 
-你可以给我给技术助? 来 [此](https://github.com/HelloOSMe/Py-crawler/fork) 拉取支修改也。
+你可以给我给技术助? 来 [此](https://github.com/Remelens/WD-crawler/fork) 拉取支修改也。
 
 ----------
 ```
-Copyright (c) 2022-2023 HelloOSMe
+Copyright (c) 2022-2023 Remelens
 All Rights Reserved.
 
-版权 2022-2023 HelloOSMe
+版权 2022-2023 Remelens
 留中权利也。
 
 The application for Linux made by RedPanda Dev-Cpp , Replit and Windows Notepad.
