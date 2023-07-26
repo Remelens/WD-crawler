@@ -1,10 +1,10 @@
 <div class="center" align="center">
   <a href="#">
-    <img alt="Py-Crawler-ICON" src="https://helloosdisk.wikidot.com/local--files/file:github/Pyc" width="100px">
+    <img alt="Py-Crawler-ICON" src="https://rmlsdisk.wikidot.com/local--files/file:github/Pyc" width="100px">
   </a><br/>
-  <img alt="Py-Crawler-ICON" src="https://helloosdisk.wikidot.com/local--files/file:github/pyctext.png" width="300px">
+  <img alt="Py-Crawler-ICON" src="https://rmlsdisk.wikidot.com/local--files/file:github/pyctext.png" width="300px">
   <p>Sichern Sie Ihren Wikidot</p>
-  <img alt="" src="https://img.shields.io/github/license/HelloOSMe/Py-crawler">&nbsp;&nbsp;<img alt="" src="https://img.shields.io/github/v/release/HelloOSMe/Py-Crawler?include_prereleases">&nbsp;&nbsp;<img alt="" src="https://img.shields.io/github/stars/HelloOSMe/Py-crawler">
+  <img alt="" src="https://img.shields.io/github/license/Remelens/WD-crawler">&nbsp;&nbsp;<img alt="" src="https://img.shields.io/github/v/release/Remelens/WD-Crawler?include_prereleases">&nbsp;&nbsp;<img alt="" src="https://img.shields.io/github/stars/Remelens/WD-crawler">
 </div>
 
 ----------
@@ -40,11 +40,11 @@ Bitte klicken Sie auf die neueste Version in der Seitenleiste `Releases` und wä
 ### **Feedback-Adresse**
 
 
-HABEN SIE EINEN FEHLER ODER BUG? Kommen Sie zu [hier](https://github.com/HelloOSMe/Py-crawler/issues) Feedback.
+HABEN SIE EINEN FEHLER ODER BUG? Kommen Sie zu [hier](https://github.com/Remelens/WD-crawler/issues) Feedback.
 
-Sie haben eine Idee für ein neues Feature, wissen aber nicht, wo Sie Feedback geben sollen? Kommen Sie zu [hier](https://github.com/HelloOSMe/Py-crawler/issues) Feedback.
+Sie haben eine Idee für ein neues Feature, wissen aber nicht, wo Sie Feedback geben sollen? Kommen Sie zu [hier](https://github.com/Remelens/WD-crawler/issues) Feedback.
 
-Können Sie uns technische Hilfe geben? Holen Sie sich [hier](https://github.com/HelloOSMe/Py-crawler/fork) Zweige, um Änderungen vorzunehmen.
+Können Sie uns technische Hilfe geben? Holen Sie sich [hier](https://github.com/Remelens/WD-crawler/fork) Zweige, um Änderungen vorzunehmen.
 
 ----------
 
