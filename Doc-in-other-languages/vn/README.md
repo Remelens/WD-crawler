@@ -44,10 +44,10 @@ Anh có thể giúp chúng tôi về kỹ thuật không? [Đây](https://github
 ----------
 
 ```
-Copyright (c) 2022-2023 HelloOSMe
+Copyright (c) 2022-2023 Remelens
 All Rights Reserved.
 
-Bản quyền (c) 2022-2023 HelloOSMe
+Bản quyền (c) 2022-2023 Remelens
 Tất cả các quyền được bảo lưu.
 
 Ứng dụng Linux được tạo bởi RedPanda Dev Cpp, Replit và Windows Notepad.
