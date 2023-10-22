@@ -17,9 +17,9 @@ create page /system:list-all-pages as:
 ```
  [[module Pages preview="true"]] 
 ```
-* Run PyCrawlerGUI.exe。
+* Run `./main`。
 * Count the number of /system:list-all-pages and fill in to pages
-* Click start
+* Follow the info!
 
 ### ScreenShot
 <img alt="" src="https://s1.ax1x.com/2023/02/20/pSXVpQJ.jpg" width="300px">  
