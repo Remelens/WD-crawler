@@ -9,6 +9,9 @@
 
 ----------
 
+# This project is no longer support because it seems that wikidot fixed its backup module.
+# Wikidot Cpp Library will be published instead. This will be more simple to backup source code instead of single HTML pages.
+
 [archive source code](https://github.com/Remelens/WD-crawler/tree/Py-Crawler++)?
 
 
@@ -36,22 +39,6 @@ create page /system:list-all-pages as:
 | Linux | x86_64/ARM | :ballot_box_with_check: | [Linux](https://github.com/Remelens/WD-crawler/tree/linux) |
 | OS X | x86_64/ARM | :x: | NULL |
 
-# 开发争议
-
-lest-day曾在其私站上说
-> 项目贡献者、命名者、翻译者、始作者lest-day
-
-对于程序而言，我**不承认**其对程序的始作、设计和贡献，只能算构思者。
-
-本程序由Remelens一人开发，您大可问问ld会不会C++和VB6。
-
---------
-
-> 程序开发是部分，没有其余我参与的部分，他即使是”一人开发“也没用
-
-说的没错，我只是在说程序，而不是项目。 
-
-为避免争议，相关部分将被删除，感谢您的构思。
 
 ----------
 
